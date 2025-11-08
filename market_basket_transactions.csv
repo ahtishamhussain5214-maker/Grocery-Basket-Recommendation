@@ -1,0 +1,2501 @@
+TransactionID,Product1,Product2,Product3,Product4,Product5
+1,Apples,Sugar,,,
+2,Soap,Milk,Donut,Tea,
+3,Cheese,Chicken,,,
+4,Pizza,Apples,Butter,Rice,
+5,Bananas,Rice,Apples,Coffee,
+6,Salt,Cereal,Biscuits,Tea,Chicken
+7,Chips,Oranges,Shampoo,,
+8,Eggs,Toothpaste,Tea,Sugar,Ice Cream
+9,Milk,Pizza,Soap,Burger,
+10,Bread,Milk,Pasta,Shampoo,Pepsi
+11,Coke,Cheese,Milk,Pasta,
+12,Shampoo,Bread,Biscuits,Pasta,Bananas
+13,Oranges,Juice,Shampoo,Pizza,
+14,Tea,Cereal,Donut,Toothpaste,
+15,Coffee,Bread,,,
+16,Cereal,Sugar,Soap,Biscuits,Bread
+17,Cereal,Water Bottle,Eggs,Bananas,Apples
+18,Milk,Toothpaste,Biscuits,Butter,Cheese
+19,Cake,Rice,Bread,Salt,
+20,Sugar,Milk,,,
+21,Milk,Bananas,,,
+22,Pasta,Shampoo,Juice,,
+23,Sugar,Coke,,,
+24,Salt,Butter,Coke,,
+25,Coke,Cheese,Pepsi,Ice Cream,
+26,Biscuits,Coffee,,,
+27,Shampoo,Oranges,,,
+28,Biscuits,Bread,Bananas,,
+29,Cake,Milk,Bananas,,
+30,Tea,Rice,Pasta,,
+31,Donut,Water Bottle,Shampoo,Toothpaste,
+32,Tea,Chips,Donut,Shampoo,Cheese
+33,Bananas,Pasta,Pepsi,Shampoo,Water Bottle
+34,Water Bottle,Oranges,,,
+35,Bananas,Eggs,Bread,Sugar,
+36,Milk,Soap,Water Bottle,,
+37,Rice,Bread,Tea,Cake,
+38,Butter,Soap,Cake,Coffee,
+39,Sugar,Pepsi,,,
+40,Cheese,Bread,Milk,Apples,Pasta
+41,Burger,Oranges,Bananas,Rice,Juice
+42,Coke,Ice Cream,Salt,Water Bottle,
+43,Rice,Apples,Oranges,Bread,Eggs
+44,Tea,Burger,,,
+45,Toothpaste,Soap,,,
+46,Milk,Salt,Juice,Pepsi,
+47,Sugar,Oranges,Eggs,,
+48,Tea,Pizza,Pepsi,Sugar,
+49,Juice,Apples,,,
+50,Burger,Shampoo,Cake,Cheese,Milk
+51,Toothpaste,Cake,Burger,Coffee,Biscuits
+52,Salt,Pasta,Bread,Apples,Tea
+53,Bananas,Juice,,,
+54,Burger,Eggs,Ice Cream,Pepsi,
+55,Burger,Water Bottle,Bananas,Coffee,
+56,Chicken,Eggs,Tea,,
+57,Eggs,Bread,,,
+58,Chips,Shampoo,Soap,,
+59,Cake,Pizza,Water Bottle,Pepsi,Rice
+60,Water Bottle,Bread,Oranges,Pizza,
+61,Coffee,Water Bottle,Sugar,,
+62,Coffee,Soap,Cheese,Pizza,
+63,Pasta,Chicken,,,
+64,Pepsi,Cheese,Coffee,Water Bottle,Coke
+65,Coffee,Apples,Bread,Salt,Donut
+66,Oranges,Pepsi,Cake,Bread,
+67,Coke,Pasta,Water Bottle,Chips,Oranges
+68,Cheese,Biscuits,Apples,,
+69,Butter,Eggs,Tea,Water Bottle,Cereal
+70,Biscuits,Pepsi,Pasta,Coke,Coffee
+71,Rice,Donut,Chicken,Pizza,
+72,Milk,Bananas,,,
+73,Bread,Water Bottle,,,
+74,Toothpaste,Eggs,Bread,,
+75,Toothpaste,Juice,Sugar,Cereal,
+76,Chicken,Coffee,Pasta,Apples,Pepsi
+77,Donut,Cereal,Soap,Coke,Coffee
+78,Tea,Ice Cream,Shampoo,,
+79,Sugar,Bread,Butter,Ice Cream,Cheese
+80,Coke,Ice Cream,Coffee,,
+81,Cheese,Cake,,,
+82,Burger,Bananas,Butter,Cereal,
+83,Cake,Tea,Biscuits,,
+84,Toothpaste,Butter,,,
+85,Butter,Biscuits,,,
+86,Milk,Cheese,Coke,Bread,
+87,Pizza,Rice,Juice,Chips,
+88,Bananas,Cereal,Eggs,,
+89,Eggs,Rice,Oranges,,
+90,Chicken,Cheese,Salt,Cereal,
+91,Chips,Bread,,,
+92,Salt,Shampoo,Toothpaste,Biscuits,Chicken
+93,Toothpaste,Sugar,Milk,Bread,Ice Cream
+94,Cake,Tea,,,
+95,Ice Cream,Sugar,Cereal,,
+96,Coke,Biscuits,Tea,,
+97,Bread,Burger,,,
+98,Bananas,Soap,Coffee,Eggs,Cheese
+99,Pepsi,Toothpaste,Milk,Cereal,
+100,Oranges,Rice,Tea,Bread,Pasta
+101,Coke,Water Bottle,Eggs,,
+102,Cereal,Bananas,Coke,Oranges,
+103,Coffee,Coke,Soap,Apples,
+104,Water Bottle,Apples,Coffee,,
+105,Tea,Ice Cream,,,
+106,Pepsi,Soap,Donut,Chips,
+107,Soap,Chicken,,,
+108,Sugar,Chips,Toothpaste,,
+109,Donut,Chicken,Water Bottle,Shampoo,Cake
+110,Oranges,Milk,Ice Cream,,
+111,Toothpaste,Oranges,Juice,,
+112,Donut,Pizza,Juice,Shampoo,
+113,Apples,Rice,Chips,Soap,
+114,Cereal,Chicken,Sugar,Burger,Coke
+115,Rice,Butter,Coffee,,
+116,Donut,Apples,,,
+117,Rice,Pepsi,Coffee,Cereal,
+118,Soap,Pasta,Eggs,,
+119,Donut,Oranges,Cake,,
+120,Cereal,Oranges,Butter,Chips,Eggs
+121,Juice,Pizza,,,
+122,Cake,Shampoo,Coke,,
+123,Donut,Burger,Toothpaste,Juice,Soap
+124,Bananas,Water Bottle,Pasta,Rice,
+125,Ice Cream,Burger,Cereal,Shampoo,
+126,Pasta,Salt,,,
+127,Soap,Ice Cream,,,
+128,Bananas,Cereal,Pasta,Salt,
+129,Biscuits,Shampoo,Burger,Water Bottle,Cake
+130,Toothpaste,Shampoo,Cereal,Pasta,
+131,Pasta,Coke,,,
+132,Pasta,Tea,Pepsi,Soap,Rice
+133,Ice Cream,Salt,Shampoo,Coke,
+134,Chicken,Cereal,Bread,,
+135,Bread,Shampoo,Water Bottle,,
+136,Rice,Milk,,,
+137,Eggs,Toothpaste,,,
+138,Chicken,Juice,Water Bottle,,
+139,Butter,Cheese,,,
+140,Oranges,Donut,,,
+141,Cake,Toothpaste,Bread,Soap,Coffee
+142,Cheese,Sugar,Pasta,,
+143,Soap,Oranges,,,
+144,Coffee,Tea,Cake,,
+145,Cake,Ice Cream,,,
+146,Pepsi,Butter,Chicken,,
+147,Apples,Ice Cream,Eggs,Coke,Cheese
+148,Milk,Oranges,Apples,Water Bottle,Butter
+149,Donut,Bananas,,,
+150,Chicken,Water Bottle,,,
+151,Apples,Coffee,Oranges,Burger,Juice
+152,Pepsi,Butter,Sugar,Oranges,Juice
+153,Burger,Cake,,,
+154,Coke,Cereal,Shampoo,,
+155,Coke,Butter,Chicken,,
+156,Butter,Apples,Juice,,
+157,Chips,Cheese,,,
+158,Donut,Pepsi,,,
+159,Sugar,Soap,Bread,,
+160,Bananas,Pepsi,Cereal,Rice,Milk
+161,Chips,Rice,Cheese,Apples,
+162,Water Bottle,Cereal,,,
+163,Cheese,Juice,Donut,,
+164,Pizza,Soap,Water Bottle,,
+165,Burger,Cheese,,,
+166,Rice,Juice,Butter,,
+167,Bread,Cheese,,,
+168,Oranges,Chips,Salt,Coke,Cake
+169,Milk,Toothpaste,,,
+170,Juice,Chicken,Pepsi,,
+171,Butter,Apples,Donut,Soap,
+172,Cake,Toothpaste,Pasta,Eggs,
+173,Tea,Chicken,,,
+174,Tea,Sugar,Juice,Cake,Pepsi
+175,Chicken,Burger,Salt,Donut,Sugar
+176,Coffee,Bananas,Chips,Pepsi,
+177,Oranges,Coffee,Biscuits,Pizza,Rice
+178,Coke,Water Bottle,Butter,,
+179,Chicken,Coke,,,
+180,Burger,Ice Cream,Coffee,Chips,
+181,Oranges,Cereal,,,
+182,Apples,Coke,Biscuits,Soap,Chicken
+183,Water Bottle,Biscuits,Burger,Coffee,
+184,Toothpaste,Chips,Oranges,Cake,
+185,Ice Cream,Tea,Cake,,
+186,Water Bottle,Juice,,,
+187,Chicken,Chips,,,
+188,Pepsi,Cake,Burger,,
+189,Oranges,Salt,Bananas,Eggs,Coffee
+190,Cake,Salt,Juice,,
+191,Pizza,Burger,Pasta,Pepsi,Rice
+192,Ice Cream,Chicken,,,
+193,Pasta,Apples,Coffee,,
+194,Pasta,Ice Cream,Rice,,
+195,Coke,Butter,Pizza,,
+196,Eggs,Rice,,,
+197,Chips,Tea,Bananas,,
+198,Sugar,Apples,Cheese,,
+199,Pepsi,Coke,Chips,Bananas,Donut
+200,Rice,Bread,Cheese,Apples,
+201,Soap,Pasta,Shampoo,Ice Cream,Sugar
+202,Eggs,Coke,Cake,Pizza,
+203,Shampoo,Donut,Chips,Pasta,Toothpaste
+204,Oranges,Milk,,,
+205,Butter,Cereal,Pizza,Chips,Apples
+206,Eggs,Coffee,Donut,Bread,Soap
+207,Pepsi,Apples,Tea,Butter,
+208,Butter,Shampoo,Coffee,Apples,Juice
+209,Bread,Cake,Chicken,Burger,Pizza
+210,Chicken,Chips,Coke,Butter,
+211,Water Bottle,Cereal,,,
+212,Rice,Pizza,Pasta,Burger,
+213,Milk,Juice,Coffee,Eggs,Chicken
+214,Pepsi,Chicken,Water Bottle,,
+215,Eggs,Toothpaste,Bananas,,
+216,Butter,Shampoo,Soap,Salt,Burger
+217,Tea,Oranges,,,
+218,Pasta,Butter,,,
+219,Apples,Chips,Butter,Pasta,
+220,Rice,Milk,Chips,Sugar,Apples
+221,Pasta,Cake,,,
+222,Coffee,Cake,,,
+223,Pasta,Soap,Tea,Water Bottle,Salt
+224,Coke,Pepsi,Apples,Biscuits,
+225,Apples,Tea,Cereal,Biscuits,Pepsi
+226,Apples,Oranges,Butter,,
+227,Rice,Pepsi,Chips,,
+228,Butter,Sugar,Cake,,
+229,Rice,Coke,,,
+230,Cereal,Pepsi,Eggs,,
+231,Juice,Milk,Sugar,,
+232,Coffee,Bananas,Soap,Pasta,Rice
+233,Chips,Cereal,Eggs,Donut,Cheese
+234,Chips,Chicken,,,
+235,Coke,Shampoo,Chips,Rice,
+236,Cereal,Chips,Coke,,
+237,Bread,Rice,,,
+238,Rice,Cereal,Burger,Milk,Bread
+239,Donut,Biscuits,Tea,,
+240,Sugar,Salt,Water Bottle,Bananas,
+241,Rice,Bananas,Toothpaste,Oranges,
+242,Pizza,Coke,Cereal,Water Bottle,Sugar
+243,Pizza,Water Bottle,Salt,Oranges,Cereal
+244,Oranges,Tea,Apples,,
+245,Toothpaste,Cereal,Coffee,Bread,
+246,Cake,Salt,,,
+247,Ice Cream,Biscuits,Pizza,Eggs,
+248,Milk,Tea,,,
+249,Salt,Milk,Sugar,,
+250,Sugar,Pizza,Tea,Pasta,Biscuits
+251,Sugar,Cake,Eggs,,
+252,Water Bottle,Shampoo,,,
+253,Chicken,Bananas,,,
+254,Sugar,Pasta,Biscuits,Oranges,
+255,Cheese,Donut,Chicken,Chips,
+256,Pizza,Rice,,,
+257,Pepsi,Oranges,Coke,,
+258,Cake,Pasta,Shampoo,Eggs,
+259,Chicken,Bread,Cheese,Chips,Pasta
+260,Sugar,Eggs,,,
+261,Chips,Cereal,Tea,,
+262,Toothpaste,Juice,Milk,Cake,
+263,Pepsi,Biscuits,Coke,Salt,Sugar
+264,Chips,Burger,Butter,,
+265,Chicken,Apples,Sugar,,
+266,Pizza,Eggs,Biscuits,Pasta,
+267,Milk,Donut,Water Bottle,Rice,Chips
+268,Ice Cream,Butter,,,
+269,Chips,Bananas,Coke,Eggs,
+270,Ice Cream,Coke,,,
+271,Coke,Burger,Milk,,
+272,Ice Cream,Oranges,Chicken,Cheese,
+273,Bananas,Chips,Shampoo,,
+274,Coke,Pizza,Shampoo,Sugar,Biscuits
+275,Butter,Coffee,,,
+276,Bananas,Pasta,Cake,Salt,Burger
+277,Milk,Shampoo,Biscuits,,
+278,Rice,Oranges,Butter,Eggs,Salt
+279,Oranges,Biscuits,Cereal,Milk,
+280,Salt,Cereal,Pepsi,Biscuits,
+281,Coke,Pizza,Cake,Donut,
+282,Pepsi,Bananas,,,
+283,Cheese,Chips,Pasta,Coffee,
+284,Cake,Juice,Salt,Ice Cream,
+285,Pizza,Oranges,,,
+286,Juice,Oranges,Butter,Cake,Ice Cream
+287,Juice,Burger,Oranges,Coffee,
+288,Donut,Cereal,Soap,,
+289,Shampoo,Eggs,Coke,,
+290,Pasta,Biscuits,Bread,Milk,
+291,Chips,Tea,Eggs,Cheese,
+292,Butter,Burger,Donut,Coke,Salt
+293,Ice Cream,Salt,,,
+294,Chips,Apples,Ice Cream,Oranges,Burger
+295,Shampoo,Coffee,Cheese,Bread,
+296,Burger,Juice,Rice,Cereal,
+297,Juice,Chicken,Apples,,
+298,Pepsi,Sugar,Water Bottle,Butter,
+299,Toothpaste,Sugar,Salt,,
+300,Sugar,Burger,Toothpaste,Water Bottle,
+301,Salt,Rice,Water Bottle,Donut,Butter
+302,Tea,Bananas,Burger,Ice Cream,Bread
+303,Burger,Cereal,Bread,Tea,
+304,Chips,Juice,,,
+305,Chips,Chicken,,,
+306,Pizza,Juice,Water Bottle,Coffee,Butter
+307,Rice,Coffee,Toothpaste,,
+308,Chicken,Cereal,Coke,,
+309,Apples,Bananas,,,
+310,Burger,Coffee,Pepsi,Butter,Milk
+311,Pizza,Chicken,,,
+312,Shampoo,Water Bottle,,,
+313,Pasta,Ice Cream,Rice,Bananas,
+314,Salt,Coke,Pizza,,
+315,Donut,Ice Cream,,,
+316,Shampoo,Chips,Toothpaste,Juice,
+317,Bananas,Eggs,Rice,Coke,Soap
+318,Rice,Biscuits,Coffee,,
+319,Juice,Apples,Shampoo,,
+320,Milk,Juice,Ice Cream,Rice,
+321,Sugar,Oranges,Pasta,Coke,
+322,Coffee,Toothpaste,Salt,Chicken,
+323,Bananas,Cheese,,,
+324,Pizza,Chicken,Apples,,
+325,Chips,Bananas,,,
+326,Biscuits,Coke,Milk,Bananas,
+327,Donut,Sugar,,,
+328,Coffee,Toothpaste,Sugar,Donut,Bread
+329,Shampoo,Soap,Donut,Coffee,Cereal
+330,Cereal,Toothpaste,Shampoo,Juice,Donut
+331,Butter,Pasta,Sugar,,
+332,Ice Cream,Soap,Juice,Eggs,Pepsi
+333,Cereal,Eggs,Tea,Sugar,Shampoo
+334,Ice Cream,Rice,Bread,Pasta,Soap
+335,Bananas,Oranges,Water Bottle,,
+336,Apples,Toothpaste,Butter,,
+337,Tea,Salt,Milk,,
+338,Bananas,Rice,Shampoo,Juice,Coke
+339,Coffee,Toothpaste,Pepsi,Pasta,
+340,Pizza,Pasta,Burger,Salt,
+341,Salt,Eggs,Pizza,,
+342,Donut,Bread,,,
+343,Burger,Water Bottle,Cheese,Tea,
+344,Apples,Milk,Rice,Water Bottle,
+345,Soap,Coke,Salt,Juice,Biscuits
+346,Cereal,Toothpaste,Shampoo,Sugar,
+347,Pizza,Ice Cream,Burger,Chicken,Pasta
+348,Bread,Milk,,,
+349,Bread,Oranges,,,
+350,Donut,Milk,Water Bottle,Burger,
+351,Bananas,Salt,,,
+352,Coke,Shampoo,Ice Cream,,
+353,Bananas,Juice,Chips,,
+354,Butter,Chips,,,
+355,Pepsi,Apples,,,
+356,Chicken,Coke,Apples,Tea,
+357,Toothpaste,Oranges,,,
+358,Coke,Milk,Shampoo,Cake,Cereal
+359,Pizza,Bananas,Chips,Coke,Eggs
+360,Oranges,Rice,Salt,,
+361,Eggs,Chicken,Cake,Pepsi,Cheese
+362,Oranges,Water Bottle,Cake,,
+363,Butter,Pasta,Milk,,
+364,Sugar,Milk,Burger,Cereal,
+365,Cake,Donut,Tea,Burger,
+366,Sugar,Salt,,,
+367,Bread,Milk,Rice,,
+368,Pepsi,Ice Cream,Shampoo,Eggs,
+369,Salt,Rice,Eggs,Butter,Chicken
+370,Shampoo,Donut,Water Bottle,Pizza,
+371,Donut,Eggs,Ice Cream,Pasta,
+372,Chicken,Cheese,,,
+373,Coke,Pizza,Ice Cream,Salt,Sugar
+374,Burger,Shampoo,,,
+375,Cake,Sugar,Milk,Chicken,
+376,Chips,Soap,Milk,,
+377,Juice,Shampoo,,,
+378,Shampoo,Toothpaste,Bananas,,
+379,Pasta,Apples,Biscuits,Cereal,
+380,Soap,Pepsi,Coke,,
+381,Salt,Apples,Sugar,Ice Cream,Shampoo
+382,Oranges,Coke,Milk,,
+383,Ice Cream,Chicken,Cheese,Chips,Toothpaste
+384,Donut,Salt,Burger,Coffee,
+385,Sugar,Biscuits,Chicken,Ice Cream,Pasta
+386,Oranges,Tea,Coke,Water Bottle,
+387,Cheese,Sugar,,,
+388,Rice,Soap,Chicken,Cheese,Coke
+389,Cereal,Butter,Coffee,Pasta,Donut
+390,Cake,Rice,,,
+391,Tea,Cereal,Toothpaste,,
+392,Water Bottle,Pepsi,,,
+393,Burger,Salt,Rice,Coffee,Bananas
+394,Juice,Burger,Coffee,Chicken,Tea
+395,Bananas,Butter,Toothpaste,Chips,Biscuits
+396,Oranges,Pepsi,Soap,Cereal,Pizza
+397,Coffee,Cereal,Sugar,,
+398,Tea,Coke,,,
+399,Salt,Eggs,,,
+400,Coffee,Coke,,,
+401,Oranges,Toothpaste,Pasta,,
+402,Bread,Ice Cream,Apples,Cake,
+403,Salt,Bread,Ice Cream,Cheese,Chicken
+404,Soap,Donut,,,
+405,Eggs,Cereal,Milk,,
+406,Water Bottle,Coke,,,
+407,Pasta,Toothpaste,,,
+408,Apples,Donut,,,
+409,Chips,Salt,,,
+410,Burger,Chips,Apples,,
+411,Donut,Bananas,Milk,,
+412,Tea,Shampoo,Cake,Biscuits,
+413,Coke,Rice,Apples,Milk,
+414,Eggs,Ice Cream,Donut,Salt,Milk
+415,Milk,Shampoo,Tea,Water Bottle,Coffee
+416,Water Bottle,Tea,Sugar,Pepsi,
+417,Salt,Pasta,Chips,Water Bottle,
+418,Biscuits,Tea,Apples,Oranges,
+419,Tea,Apples,Burger,Biscuits,
+420,Ice Cream,Rice,Bananas,,
+421,Cereal,Pepsi,,,
+422,Soap,Cake,Chips,,
+423,Sugar,Burger,Juice,,
+424,Butter,Salt,Water Bottle,,
+425,Toothpaste,Eggs,Milk,Apples,Coffee
+426,Oranges,Cheese,Burger,Shampoo,Bananas
+427,Soap,Juice,,,
+428,Juice,Coke,Biscuits,Pasta,
+429,Toothpaste,Milk,Bread,Pasta,
+430,Toothpaste,Chicken,,,
+431,Bananas,Toothpaste,Water Bottle,Salt,Cake
+432,Pizza,Water Bottle,Milk,,
+433,Water Bottle,Donut,Biscuits,Chicken,Coke
+434,Chips,Pasta,Coffee,Donut,
+435,Coke,Salt,,,
+436,Pasta,Apples,Eggs,Toothpaste,Bananas
+437,Chips,Burger,Biscuits,Oranges,Coffee
+438,Apples,Bananas,Eggs,,
+439,Cheese,Cereal,,,
+440,Burger,Shampoo,Chips,Pepsi,
+441,Coke,Butter,Coffee,Water Bottle,Tea
+442,Chips,Soap,,,
+443,Toothpaste,Bread,Soap,Salt,
+444,Pasta,Sugar,Chicken,,
+445,Bread,Cereal,Chips,Water Bottle,Toothpaste
+446,Eggs,Pepsi,Cheese,Rice,Ice Cream
+447,Biscuits,Ice Cream,Milk,,
+448,Bread,Water Bottle,,,
+449,Juice,Bananas,Pasta,,
+450,Pepsi,Cake,Coffee,,
+451,Oranges,Pasta,Cereal,,
+452,Apples,Coke,Eggs,Rice,
+453,Bananas,Sugar,Cereal,Pasta,Rice
+454,Shampoo,Apples,,,
+455,Rice,Pasta,Donut,,
+456,Eggs,Juice,Water Bottle,Ice Cream,
+457,Oranges,Butter,Chicken,Rice,
+458,Donut,Bread,Soap,Salt,
+459,Bananas,Pasta,,,
+460,Coffee,Chicken,Ice Cream,,
+461,Chips,Shampoo,Chicken,,
+462,Salt,Tea,,,
+463,Butter,Pasta,,,
+464,Salt,Water Bottle,,,
+465,Shampoo,Sugar,,,
+466,Bananas,Sugar,Burger,Pasta,Apples
+467,Juice,Salt,,,
+468,Sugar,Milk,Biscuits,,
+469,Bread,Chicken,Sugar,Ice Cream,Coffee
+470,Water Bottle,Chicken,,,
+471,Sugar,Pasta,Coffee,Oranges,Rice
+472,Coke,Coffee,Bread,,
+473,Bananas,Juice,Ice Cream,,
+474,Ice Cream,Pizza,Biscuits,Chips,
+475,Eggs,Cheese,Butter,Rice,
+476,Coffee,Chicken,Burger,,
+477,Cheese,Milk,,,
+478,Chicken,Eggs,Salt,,
+479,Water Bottle,Oranges,Soap,Rice,
+480,Bread,Tea,,,
+481,Sugar,Salt,,,
+482,Tea,Soap,Burger,Juice,
+483,Juice,Milk,Burger,Cake,
+484,Bread,Water Bottle,,,
+485,Oranges,Burger,,,
+486,Toothpaste,Cake,Ice Cream,Coffee,
+487,Soap,Tea,Apples,Milk,
+488,Toothpaste,Rice,Coffee,,
+489,Water Bottle,Eggs,Cheese,Chicken,Donut
+490,Bananas,Chicken,Cheese,,
+491,Cheese,Pasta,Coffee,,
+492,Apples,Rice,Shampoo,Pasta,Chips
+493,Biscuits,Salt,,,
+494,Juice,Cheese,Pasta,Apples,Coffee
+495,Chicken,Toothpaste,Cake,Soap,Ice Cream
+496,Cake,Pasta,,,
+497,Butter,Milk,Juice,Toothpaste,Chips
+498,Juice,Water Bottle,Coke,,
+499,Salt,Apples,Soap,Ice Cream,Rice
+500,Sugar,Juice,,,
+501,Cheese,Sugar,,,
+502,Toothpaste,Rice,,,
+503,Donut,Cake,,,
+504,Pizza,Juice,Cereal,Donut,
+505,Salt,Butter,Milk,Coke,Pizza
+506,Bananas,Toothpaste,Coffee,,
+507,Salt,Donut,Chicken,Pizza,
+508,Bananas,Chips,Pasta,Pepsi,
+509,Shampoo,Cheese,Pizza,,
+510,Ice Cream,Apples,Eggs,Coke,
+511,Pizza,Donut,Oranges,Coke,Coffee
+512,Chicken,Water Bottle,Butter,,
+513,Ice Cream,Biscuits,,,
+514,Burger,Ice Cream,Milk,Cake,Oranges
+515,Eggs,Milk,Coke,,
+516,Biscuits,Soap,Chicken,Milk,
+517,Chicken,Eggs,,,
+518,Burger,Bread,,,
+519,Cheese,Soap,,,
+520,Butter,Cereal,Chicken,,
+521,Burger,Cheese,Oranges,Chicken,Chips
+522,Bread,Soap,Pizza,,
+523,Apples,Cereal,Bananas,Sugar,Coffee
+524,Shampoo,Coke,Chips,,
+525,Bananas,Chips,Bread,,
+526,Ice Cream,Butter,,,
+527,Pizza,Sugar,Chips,Shampoo,Bananas
+528,Oranges,Toothpaste,Coke,Coffee,Cereal
+529,Shampoo,Apples,Tea,Cereal,
+530,Oranges,Sugar,Coffee,Donut,
+531,Milk,Cereal,Burger,,
+532,Tea,Burger,Shampoo,,
+533,Sugar,Pepsi,,,
+534,Coke,Pasta,,,
+535,Cereal,Eggs,Rice,,
+536,Cheese,Coke,Oranges,,
+537,Burger,Eggs,Salt,Oranges,Ice Cream
+538,Bananas,Oranges,,,
+539,Bread,Bananas,,,
+540,Milk,Salt,Burger,,
+541,Bread,Pepsi,Apples,Cheese,
+542,Ice Cream,Sugar,Water Bottle,,
+543,Sugar,Cereal,,,
+544,Oranges,Cake,Donut,Burger,
+545,Rice,Soap,,,
+546,Cake,Sugar,Shampoo,Donut,
+547,Toothpaste,Coke,Shampoo,Bread,
+548,Butter,Oranges,Cheese,,
+549,Juice,Donut,,,
+550,Tea,Pepsi,Chicken,,
+551,Bread,Cereal,Rice,,
+552,Sugar,Juice,Salt,Donut,
+553,Coffee,Cheese,Pepsi,,
+554,Salt,Burger,Ice Cream,Shampoo,Toothpaste
+555,Cereal,Cake,Oranges,Shampoo,Pasta
+556,Coke,Pepsi,,,
+557,Rice,Coffee,Oranges,Milk,Salt
+558,Pepsi,Shampoo,Biscuits,Oranges,
+559,Eggs,Burger,Shampoo,,
+560,Water Bottle,Oranges,Chips,Shampoo,
+561,Chips,Coffee,Tea,,
+562,Pizza,Chicken,Coke,Chips,
+563,Oranges,Eggs,Pepsi,,
+564,Donut,Sugar,,,
+565,Eggs,Bread,Tea,,
+566,Rice,Tea,Ice Cream,,
+567,Bread,Burger,Coke,Biscuits,
+568,Bananas,Biscuits,,,
+569,Shampoo,Bananas,Pepsi,Tea,
+570,Coffee,Chicken,Rice,Cheese,Coke
+571,Biscuits,Salt,,,
+572,Butter,Water Bottle,,,
+573,Chicken,Salt,Tea,Bananas,
+574,Coffee,Pizza,Chips,Rice,
+575,Burger,Pasta,Coke,Ice Cream,Cereal
+576,Tea,Pepsi,Biscuits,,
+577,Sugar,Cake,Bread,,
+578,Ice Cream,Soap,Coffee,Biscuits,Bread
+579,Bread,Pizza,,,
+580,Cake,Juice,Pizza,,
+581,Salt,Chips,,,
+582,Oranges,Donut,Milk,Cheese,Pepsi
+583,Butter,Burger,Water Bottle,Bananas,Chicken
+584,Shampoo,Water Bottle,Bread,Salt,
+585,Coffee,Soap,Donut,,
+586,Eggs,Sugar,Chicken,Apples,Pepsi
+587,Chicken,Donut,Burger,,
+588,Cheese,Sugar,Water Bottle,,
+589,Juice,Burger,Oranges,Bananas,
+590,Tea,Cheese,Oranges,Butter,Coke
+591,Milk,Bananas,Bread,,
+592,Donut,Toothpaste,Soap,,
+593,Cake,Pasta,,,
+594,Biscuits,Toothpaste,Cake,Water Bottle,
+595,Apples,Ice Cream,Cheese,Water Bottle,
+596,Pasta,Pizza,Donut,,
+597,Apples,Chips,Milk,Juice,Soap
+598,Donut,Biscuits,Burger,Cheese,Bread
+599,Cheese,Burger,Coke,Apples,Ice Cream
+600,Water Bottle,Cheese,Biscuits,,
+601,Cake,Bananas,Water Bottle,,
+602,Juice,Donut,,,
+603,Salt,Tea,,,
+604,Bananas,Chips,Burger,,
+605,Soap,Bread,Cereal,Ice Cream,Toothpaste
+606,Apples,Oranges,Pepsi,Ice Cream,Bread
+607,Milk,Salt,Toothpaste,Shampoo,Cheese
+608,Bananas,Pizza,Juice,Soap,Tea
+609,Cake,Sugar,Salt,,
+610,Oranges,Donut,Ice Cream,Pizza,Butter
+611,Chicken,Cereal,,,
+612,Cheese,Burger,Water Bottle,,
+613,Butter,Oranges,Cereal,Pasta,Bread
+614,Soap,Toothpaste,Shampoo,,
+615,Burger,Pepsi,Cereal,Biscuits,
+616,Shampoo,Ice Cream,Milk,Sugar,
+617,Cheese,Milk,,,
+618,Sugar,Butter,Salt,,
+619,Eggs,Milk,Cake,Biscuits,
+620,Bread,Donut,Juice,,
+621,Donut,Pepsi,Water Bottle,,
+622,Sugar,Shampoo,Apples,,
+623,Burger,Rice,,,
+624,Pepsi,Ice Cream,Chicken,Toothpaste,Donut
+625,Soap,Ice Cream,Shampoo,Tea,Pasta
+626,Pepsi,Milk,Donut,,
+627,Shampoo,Soap,,,
+628,Pasta,Shampoo,,,
+629,Donut,Biscuits,Cheese,Juice,
+630,Coffee,Sugar,,,
+631,Juice,Toothpaste,Eggs,Donut,
+632,Chicken,Pepsi,Bread,Rice,
+633,Bananas,Pizza,,,
+634,Sugar,Bananas,Biscuits,,
+635,Cheese,Rice,Eggs,,
+636,Tea,Butter,Burger,,
+637,Coffee,Juice,,,
+638,Coffee,Salt,Eggs,,
+639,Donut,Water Bottle,Cake,Pasta,
+640,Chicken,Apples,Soap,,
+641,Pasta,Eggs,,,
+642,Bread,Juice,Sugar,,
+643,Soap,Oranges,,,
+644,Burger,Cake,Eggs,,
+645,Pasta,Donut,,,
+646,Salt,Burger,,,
+647,Salt,Sugar,Juice,Biscuits,Cheese
+648,Butter,Soap,,,
+649,Cake,Water Bottle,Bananas,Cheese,
+650,Chicken,Toothpaste,,,
+651,Biscuits,Coke,Water Bottle,Tea,
+652,Cake,Toothpaste,Water Bottle,Butter,Donut
+653,Pasta,Bananas,Juice,,
+654,Cake,Biscuits,Ice Cream,,
+655,Biscuits,Pepsi,,,
+656,Pasta,Ice Cream,Milk,,
+657,Chips,Oranges,Tea,Cereal,
+658,Sugar,Oranges,Coffee,Tea,Apples
+659,Toothpaste,Donut,Milk,,
+660,Butter,Eggs,,,
+661,Sugar,Ice Cream,,,
+662,Cereal,Ice Cream,Coffee,Butter,
+663,Rice,Ice Cream,Butter,Donut,
+664,Shampoo,Pepsi,,,
+665,Coke,Eggs,Pepsi,Ice Cream,
+666,Pepsi,Biscuits,Water Bottle,Chicken,Bread
+667,Biscuits,Milk,Rice,Cereal,Pepsi
+668,Tea,Salt,,,
+669,Chips,Cake,Chicken,Apples,
+670,Bananas,Coke,Tea,Bread,
+671,Shampoo,Apples,Coke,Water Bottle,
+672,Cake,Tea,Oranges,Coke,
+673,Bananas,Oranges,Chicken,Cereal,
+674,Ice Cream,Bread,Coffee,Butter,Biscuits
+675,Donut,Pasta,,,
+676,Coke,Pasta,Oranges,,
+677,Pasta,Sugar,Salt,,
+678,Shampoo,Cereal,Pepsi,Toothpaste,
+679,Cheese,Pizza,Bananas,Water Bottle,Soap
+680,Rice,Cheese,Eggs,,
+681,Butter,Pepsi,Milk,Bananas,
+682,Pizza,Chips,Pepsi,Cheese,Milk
+683,Chips,Cheese,Donut,Sugar,Burger
+684,Chicken,Toothpaste,Coke,,
+685,Bananas,Soap,Juice,Pizza,
+686,Pepsi,Sugar,Pasta,Rice,
+687,Bread,Cheese,Burger,Coffee,
+688,Eggs,Tea,Apples,Cheese,Ice Cream
+689,Bananas,Chicken,Coke,Cake,
+690,Eggs,Butter,Bread,Coke,
+691,Milk,Toothpaste,Juice,Pizza,Water Bottle
+692,Donut,Eggs,Shampoo,Rice,Soap
+693,Soap,Biscuits,Ice Cream,Coke,Sugar
+694,Shampoo,Sugar,,,
+695,Eggs,Pepsi,Cereal,,
+696,Donut,Rice,,,
+697,Chicken,Shampoo,,,
+698,Shampoo,Chicken,Tea,,
+699,Ice Cream,Pepsi,Coffee,Water Bottle,Chicken
+700,Toothpaste,Biscuits,Pasta,Eggs,
+701,Pasta,Tea,Toothpaste,Eggs,
+702,Apples,Coke,Shampoo,Soap,Bread
+703,Tea,Soap,,,
+704,Apples,Cake,Biscuits,Burger,
+705,Coffee,Oranges,Ice Cream,Bread,Soap
+706,Salt,Burger,,,
+707,Donut,Tea,Rice,Ice Cream,Pizza
+708,Apples,Biscuits,Bananas,Donut,
+709,Shampoo,Burger,Water Bottle,Rice,
+710,Bananas,Juice,,,
+711,Pasta,Tea,Ice Cream,,
+712,Sugar,Cereal,Soap,Cheese,
+713,Pepsi,Rice,Oranges,,
+714,Eggs,Soap,Tea,Coke,
+715,Biscuits,Milk,Apples,Chips,
+716,Tea,Juice,,,
+717,Tea,Toothpaste,Coke,,
+718,Biscuits,Chips,Butter,,
+719,Coffee,Toothpaste,,,
+720,Shampoo,Sugar,,,
+721,Salt,Pepsi,,,
+722,Coffee,Chicken,,,
+723,Pizza,Salt,Water Bottle,Donut,
+724,Pepsi,Chips,Pizza,,
+725,Soap,Tea,Sugar,Cereal,Chips
+726,Juice,Cake,Water Bottle,Apples,Toothpaste
+727,Chicken,Shampoo,Eggs,Bread,
+728,Milk,Shampoo,,,
+729,Tea,Pizza,,,
+730,Cheese,Butter,Shampoo,Cake,Coffee
+731,Chicken,Sugar,Cereal,,
+732,Cheese,Cake,Oranges,Chicken,
+733,Pepsi,Burger,Coke,,
+734,Salt,Sugar,Eggs,,
+735,Ice Cream,Apples,Biscuits,Shampoo,Bananas
+736,Burger,Cheese,Coke,,
+737,Salt,Apples,Juice,Pizza,
+738,Oranges,Sugar,Juice,Milk,Rice
+739,Cheese,Oranges,Salt,,
+740,Sugar,Eggs,Soap,Donut,
+741,Bananas,Pasta,Apples,,
+742,Butter,Tea,Pepsi,Bananas,Rice
+743,Cheese,Chips,,,
+744,Cheese,Bread,,,
+745,Bread,Burger,Rice,Oranges,
+746,Butter,Bananas,,,
+747,Apples,Pasta,Juice,Coffee,
+748,Eggs,Biscuits,Coffee,Bananas,
+749,Tea,Ice Cream,Water Bottle,,
+750,Cheese,Oranges,Cereal,,
+751,Tea,Biscuits,Shampoo,,
+752,Cereal,Apples,Rice,Shampoo,Burger
+753,Toothpaste,Ice Cream,Butter,,
+754,Chicken,Apples,Pasta,Water Bottle,Oranges
+755,Butter,Salt,,,
+756,Pizza,Chips,,,
+757,Pepsi,Bananas,Coffee,Cake,
+758,Pasta,Bananas,Butter,,
+759,Bread,Milk,Oranges,Chicken,Cereal
+760,Pepsi,Milk,Salt,Bread,
+761,Salt,Butter,Pepsi,,
+762,Soap,Donut,,,
+763,Milk,Toothpaste,Pepsi,,
+764,Cheese,Oranges,Milk,Coffee,
+765,Cereal,Sugar,,,
+766,Apples,Milk,Shampoo,,
+767,Oranges,Donut,Pepsi,Shampoo,Rice
+768,Chips,Salt,Cereal,,
+769,Water Bottle,Cake,,,
+770,Biscuits,Bananas,Juice,Oranges,Donut
+771,Apples,Rice,,,
+772,Ice Cream,Pasta,,,
+773,Toothpaste,Juice,Apples,Pasta,
+774,Donut,Shampoo,Bananas,Eggs,Bread
+775,Coke,Apples,Milk,Juice,
+776,Coke,Biscuits,Oranges,Butter,
+777,Oranges,Pizza,Rice,Pasta,Bread
+778,Juice,Shampoo,Biscuits,Donut,Bananas
+779,Pasta,Pizza,,,
+780,Pizza,Bananas,,,
+781,Burger,Soap,,,
+782,Cereal,Oranges,Bananas,Chicken,
+783,Shampoo,Cheese,Cake,,
+784,Pasta,Bread,Rice,,
+785,Ice Cream,Tea,Pasta,,
+786,Butter,Coffee,Pasta,Milk,
+787,Ice Cream,Sugar,Milk,Burger,
+788,Pasta,Shampoo,Burger,Apples,Pepsi
+789,Apples,Soap,,,
+790,Bread,Cheese,,,
+791,Oranges,Cereal,,,
+792,Butter,Bread,Ice Cream,Coke,Juice
+793,Burger,Ice Cream,Soap,,
+794,Donut,Water Bottle,Bananas,Biscuits,
+795,Salt,Pepsi,,,
+796,Bananas,Pasta,Soap,Oranges,
+797,Bread,Coke,Water Bottle,,
+798,Pizza,Shampoo,Water Bottle,Bananas,
+799,Eggs,Bananas,Ice Cream,,
+800,Donut,Toothpaste,Coke,,
+801,Ice Cream,Cheese,,,
+802,Water Bottle,Soap,Chips,Toothpaste,Shampoo
+803,Eggs,Ice Cream,Biscuits,Pizza,Water Bottle
+804,Sugar,Rice,Apples,Milk,
+805,Apples,Sugar,,,
+806,Water Bottle,Cake,Toothpaste,,
+807,Sugar,Chicken,Coke,,
+808,Pepsi,Butter,,,
+809,Chicken,Butter,Ice Cream,Pepsi,Oranges
+810,Milk,Shampoo,Oranges,Tea,
+811,Ice Cream,Sugar,Cheese,Apples,
+812,Sugar,Biscuits,Salt,Burger,Water Bottle
+813,Toothpaste,Coke,,,
+814,Coke,Soap,Toothpaste,Salt,
+815,Pepsi,Oranges,,,
+816,Milk,Apples,Ice Cream,Shampoo,
+817,Pepsi,Chips,,,
+818,Bread,Rice,Apples,Donut,
+819,Bread,Water Bottle,Ice Cream,,
+820,Sugar,Cheese,Bread,Chicken,Donut
+821,Butter,Rice,,,
+822,Sugar,Toothpaste,Ice Cream,,
+823,Soap,Cake,,,
+824,Bread,Biscuits,Cereal,Water Bottle,Oranges
+825,Coffee,Juice,Cheese,Donut,
+826,Juice,Salt,Oranges,Pasta,
+827,Juice,Coke,Butter,,
+828,Chips,Sugar,Toothpaste,Bananas,Cereal
+829,Eggs,Cake,,,
+830,Burger,Shampoo,Tea,Apples,Pepsi
+831,Burger,Rice,Coke,Chicken,Cereal
+832,Soap,Toothpaste,Cake,Salt,
+833,Cake,Toothpaste,Coffee,,
+834,Apples,Milk,,,
+835,Coke,Chips,Rice,Toothpaste,Cereal
+836,Chicken,Toothpaste,Cereal,,
+837,Donut,Eggs,Butter,Cheese,
+838,Juice,Milk,Bread,Pepsi,Soap
+839,Coke,Juice,Eggs,Chicken,
+840,Pasta,Burger,Oranges,,
+841,Pizza,Cheese,Pasta,Tea,
+842,Cheese,Salt,,,
+843,Eggs,Pasta,,,
+844,Sugar,Shampoo,,,
+845,Biscuits,Rice,Water Bottle,Sugar,Salt
+846,Tea,Pepsi,,,
+847,Salt,Soap,Burger,Cheese,
+848,Oranges,Pepsi,Juice,Burger,
+849,Shampoo,Toothpaste,,,
+850,Eggs,Bananas,Shampoo,Water Bottle,Cake
+851,Pasta,Apples,Coke,Burger,
+852,Water Bottle,Pizza,,,
+853,Coke,Salt,,,
+854,Shampoo,Water Bottle,Soap,,
+855,Donut,Chips,Coffee,,
+856,Butter,Cake,Juice,Sugar,
+857,Coffee,Pepsi,Tea,,
+858,Apples,Coffee,Toothpaste,,
+859,Apples,Pizza,Toothpaste,Biscuits,
+860,Ice Cream,Bread,Pasta,Coke,
+861,Pasta,Rice,Cereal,Cake,Eggs
+862,Cake,Salt,,,
+863,Pizza,Pepsi,Cake,,
+864,Tea,Milk,Cake,,
+865,Tea,Juice,Oranges,Apples,Water Bottle
+866,Apples,Butter,Bread,,
+867,Biscuits,Toothpaste,Eggs,,
+868,Bread,Eggs,Water Bottle,Pizza,Butter
+869,Cheese,Rice,Pasta,,
+870,Cereal,Donut,Chips,Cheese,Eggs
+871,Toothpaste,Salt,Pizza,,
+872,Sugar,Chips,,,
+873,Pizza,Cereal,Cheese,,
+874,Apples,Oranges,Pasta,Cake,
+875,Milk,Sugar,Biscuits,Rice,Soap
+876,Cheese,Tea,Rice,Butter,
+877,Pasta,Bread,Soap,Oranges,
+878,Chips,Eggs,Toothpaste,Pepsi,Water Bottle
+879,Bread,Butter,Chicken,Donut,Bananas
+880,Ice Cream,Apples,Cake,Water Bottle,
+881,Soap,Ice Cream,Chicken,,
+882,Cereal,Cake,Salt,Toothpaste,Pasta
+883,Cake,Pepsi,Cheese,,
+884,Eggs,Soap,Pizza,Shampoo,Pepsi
+885,Chicken,Eggs,Apples,Soap,Juice
+886,Toothpaste,Tea,Shampoo,,
+887,Bread,Tea,Pasta,Ice Cream,
+888,Bananas,Soap,Eggs,Biscuits,Bread
+889,Cheese,Salt,,,
+890,Tea,Eggs,Donut,Salt,
+891,Eggs,Oranges,Burger,Sugar,Ice Cream
+892,Cereal,Oranges,Donut,Pasta,
+893,Water Bottle,Chips,Tea,,
+894,Coke,Chips,Bread,Rice,Butter
+895,Bread,Juice,,,
+896,Shampoo,Toothpaste,,,
+897,Pasta,Oranges,Bananas,,
+898,Bread,Oranges,Shampoo,Soap,Bananas
+899,Biscuits,Salt,Rice,Milk,Water Bottle
+900,Salt,Tea,,,
+901,Salt,Soap,Chicken,,
+902,Toothpaste,Ice Cream,,,
+903,Soap,Biscuits,Donut,Pasta,Chicken
+904,Cereal,Cheese,,,
+905,Sugar,Oranges,,,
+906,Water Bottle,Eggs,Juice,,
+907,Donut,Chips,Shampoo,Cake,
+908,Tea,Sugar,,,
+909,Butter,Burger,Cereal,,
+910,Chips,Biscuits,Pepsi,,
+911,Shampoo,Cake,Ice Cream,Tea,Apples
+912,Pizza,Butter,Eggs,Bread,Shampoo
+913,Pizza,Biscuits,Pepsi,Donut,
+914,Toothpaste,Pepsi,Biscuits,,
+915,Eggs,Salt,Shampoo,Pasta,Milk
+916,Salt,Rice,Oranges,Butter,
+917,Eggs,Toothpaste,,,
+918,Bread,Cereal,Burger,,
+919,Salt,Coffee,,,
+920,Chips,Biscuits,Eggs,Burger,
+921,Pasta,Chicken,Milk,,
+922,Coffee,Apples,Pepsi,Tea,
+923,Milk,Burger,Rice,,
+924,Pizza,Ice Cream,,,
+925,Pepsi,Rice,Shampoo,Coke,
+926,Juice,Rice,,,
+927,Pepsi,Pasta,Coke,,
+928,Sugar,Bananas,Milk,,
+929,Bread,Toothpaste,Tea,,
+930,Sugar,Ice Cream,Cake,Butter,Juice
+931,Pizza,Coffee,,,
+932,Butter,Burger,Pepsi,Eggs,
+933,Water Bottle,Juice,,,
+934,Bread,Salt,Shampoo,Coffee,
+935,Rice,Water Bottle,Butter,,
+936,Bread,Butter,Pizza,,
+937,Juice,Soap,Toothpaste,,
+938,Butter,Ice Cream,Coke,,
+939,Pepsi,Cake,Bread,,
+940,Butter,Bread,,,
+941,Burger,Rice,Shampoo,,
+942,Toothpaste,Oranges,Butter,,
+943,Eggs,Shampoo,Cheese,,
+944,Shampoo,Toothpaste,Pepsi,,
+945,Water Bottle,Cereal,,,
+946,Bananas,Coke,Ice Cream,Eggs,
+947,Salt,Oranges,Burger,Cereal,Sugar
+948,Donut,Coffee,,,
+949,Eggs,Butter,Rice,Salt,
+950,Bread,Apples,Tea,,
+951,Bananas,Toothpaste,Salt,Apples,
+952,Pasta,Shampoo,Juice,Water Bottle,
+953,Oranges,Tea,Chips,,
+954,Cheese,Bananas,,,
+955,Toothpaste,Chips,,,
+956,Toothpaste,Bread,,,
+957,Chicken,Shampoo,,,
+958,Burger,Oranges,Apples,Coke,
+959,Soap,Oranges,Milk,,
+960,Cake,Bread,,,
+961,Butter,Cake,Toothpaste,Pizza,Burger
+962,Pasta,Cereal,Water Bottle,Biscuits,
+963,Tea,Cereal,Toothpaste,,
+964,Burger,Coke,Butter,Toothpaste,
+965,Eggs,Cake,Ice Cream,Sugar,
+966,Shampoo,Coke,Biscuits,Salt,Pepsi
+967,Coke,Bread,Pasta,,
+968,Chips,Juice,Tea,,
+969,Water Bottle,Milk,,,
+970,Donut,Pasta,Toothpaste,Coffee,
+971,Bananas,Biscuits,Cheese,Water Bottle,Coke
+972,Apples,Butter,Milk,Juice,Cheese
+973,Bread,Donut,Juice,,
+974,Water Bottle,Tea,,,
+975,Chicken,Pizza,Oranges,,
+976,Cheese,Oranges,Juice,,
+977,Tea,Juice,Biscuits,,
+978,Bread,Pizza,Soap,,
+979,Toothpaste,Apples,Chicken,,
+980,Ice Cream,Toothpaste,,,
+981,Soap,Pasta,Sugar,,
+982,Apples,Butter,,,
+983,Donut,Cake,Burger,,
+984,Sugar,Milk,Soap,Ice Cream,Tea
+985,Water Bottle,Cereal,Apples,Pepsi,Juice
+986,Ice Cream,Bread,,,
+987,Cheese,Apples,Coffee,Pasta,
+988,Butter,Tea,Milk,Shampoo,
+989,Soap,Juice,,,
+990,Water Bottle,Tea,Bananas,Milk,Bread
+991,Toothpaste,Coffee,,,
+992,Rice,Pasta,Juice,,
+993,Coke,Salt,,,
+994,Toothpaste,Donut,Pepsi,,
+995,Ice Cream,Salt,Cheese,Oranges,
+996,Cake,Cereal,,,
+997,Milk,Chicken,Cheese,Biscuits,
+998,Butter,Rice,Pizza,,
+999,Sugar,Pasta,,,
+1000,Ice Cream,Burger,Eggs,Soap,Bananas
+1001,Bananas,Salt,Milk,Cheese,Coffee
+1002,Bananas,Cheese,Chicken,Pepsi,Ice Cream
+1003,Soap,Pasta,Cake,,
+1004,Cake,Eggs,,,
+1005,Milk,Pasta,,,
+1006,Oranges,Tea,Ice Cream,Water Bottle,Soap
+1007,Tea,Cake,,,
+1008,Bread,Coffee,Coke,,
+1009,Chicken,Pizza,Coffee,,
+1010,Coffee,Water Bottle,Coke,Ice Cream,
+1011,Tea,Cheese,Oranges,Rice,Ice Cream
+1012,Cake,Pizza,Chicken,,
+1013,Sugar,Shampoo,Biscuits,Chips,
+1014,Milk,Pepsi,Rice,Pasta,
+1015,Cake,Donut,,,
+1016,Burger,Tea,Coffee,Eggs,Biscuits
+1017,Cake,Chips,Soap,,
+1018,Cake,Chips,,,
+1019,Burger,Coffee,Bananas,,
+1020,Ice Cream,Sugar,,,
+1021,Eggs,Bananas,Pasta,Biscuits,Cake
+1022,Oranges,Rice,Toothpaste,Bread,
+1023,Pasta,Milk,Bread,Cheese,Toothpaste
+1024,Ice Cream,Soap,Pizza,Oranges,Donut
+1025,Oranges,Pepsi,Toothpaste,Biscuits,
+1026,Cheese,Pepsi,Cake,Juice,Pizza
+1027,Rice,Donut,,,
+1028,Shampoo,Sugar,Ice Cream,Eggs,
+1029,Sugar,Cheese,Bananas,,
+1030,Toothpaste,Coffee,Eggs,Tea,
+1031,Chips,Oranges,Ice Cream,Butter,Burger
+1032,Shampoo,Cheese,Rice,Pepsi,
+1033,Tea,Pasta,Bread,Salt,
+1034,Cake,Coffee,Bananas,Coke,Burger
+1035,Bread,Coffee,Soap,Eggs,
+1036,Eggs,Shampoo,Cereal,,
+1037,Burger,Salt,Butter,Bread,
+1038,Water Bottle,Bananas,Salt,Rice,Bread
+1039,Bananas,Coke,,,
+1040,Rice,Toothpaste,Bananas,Chicken,
+1041,Soap,Rice,Coke,Apples,Eggs
+1042,Butter,Chicken,,,
+1043,Chips,Pepsi,Toothpaste,Water Bottle,Coke
+1044,Coke,Milk,,,
+1045,Bananas,Shampoo,,,
+1046,Salt,Juice,Shampoo,Sugar,
+1047,Sugar,Pizza,Coke,,
+1048,Water Bottle,Juice,,,
+1049,Water Bottle,Coffee,Rice,Sugar,Soap
+1050,Ice Cream,Juice,Donut,,
+1051,Apples,Biscuits,Coke,Eggs,Soap
+1052,Cheese,Donut,Shampoo,Rice,
+1053,Salt,Tea,,,
+1054,Oranges,Apples,,,
+1055,Pizza,Burger,Salt,Eggs,
+1056,Cake,Sugar,Chips,Rice,
+1057,Bananas,Tea,Donut,Butter,Salt
+1058,Salt,Cake,Oranges,Butter,
+1059,Bananas,Rice,Biscuits,Apples,Bread
+1060,Biscuits,Butter,Shampoo,Bananas,
+1061,Water Bottle,Soap,Pepsi,Salt,Chips
+1062,Coffee,Chips,Shampoo,,
+1063,Ice Cream,Cheese,Pasta,Chicken,Pizza
+1064,Chips,Oranges,Coke,,
+1065,Rice,Oranges,Burger,Soap,Coffee
+1066,Biscuits,Apples,Pasta,Burger,Salt
+1067,Cake,Ice Cream,Chicken,,
+1068,Soap,Pizza,Eggs,,
+1069,Cereal,Water Bottle,,,
+1070,Burger,Chips,Pepsi,,
+1071,Sugar,Butter,Burger,Oranges,
+1072,Bread,Salt,Eggs,Cheese,
+1073,Pepsi,Bananas,Oranges,Soap,
+1074,Toothpaste,Cereal,Milk,Tea,Biscuits
+1075,Coffee,Burger,Butter,Milk,Rice
+1076,Rice,Pepsi,,,
+1077,Biscuits,Burger,Soap,,
+1078,Biscuits,Cake,,,
+1079,Tea,Ice Cream,Bananas,Burger,Oranges
+1080,Eggs,Pasta,Oranges,,
+1081,Rice,Pepsi,Butter,Toothpaste,
+1082,Ice Cream,Cheese,Eggs,Pasta,Chicken
+1083,Chips,Burger,Coke,,
+1084,Ice Cream,Soap,Juice,Chicken,Butter
+1085,Chicken,Tea,Pizza,Sugar,Apples
+1086,Eggs,Cake,Rice,,
+1087,Cake,Cheese,Eggs,,
+1088,Oranges,Cereal,Chicken,Milk,Bread
+1089,Butter,Coke,Salt,Oranges,
+1090,Apples,Biscuits,,,
+1091,Pizza,Sugar,Ice Cream,,
+1092,Tea,Coffee,Pepsi,Cake,Cereal
+1093,Chips,Apples,Milk,,
+1094,Apples,Eggs,Chicken,,
+1095,Pepsi,Milk,Cake,Bread,
+1096,Coke,Juice,,,
+1097,Eggs,Pasta,Salt,Donut,Juice
+1098,Eggs,Cheese,,,
+1099,Donut,Rice,Pepsi,,
+1100,Bananas,Coke,,,
+1101,Bread,Chips,Toothpaste,,
+1102,Milk,Apples,Cheese,Shampoo,
+1103,Ice Cream,Pepsi,Burger,,
+1104,Burger,Cereal,Shampoo,Oranges,Ice Cream
+1105,Apples,Coffee,,,
+1106,Coke,Apples,Coffee,Donut,Sugar
+1107,Pizza,Coke,Cake,,
+1108,Pizza,Sugar,,,
+1109,Donut,Burger,Tea,Toothpaste,Cereal
+1110,Eggs,Toothpaste,Cheese,,
+1111,Juice,Toothpaste,Cheese,,
+1112,Toothpaste,Tea,Chicken,Cereal,Apples
+1113,Toothpaste,Soap,Water Bottle,,
+1114,Oranges,Pepsi,Cheese,,
+1115,Pizza,Shampoo,Toothpaste,Coke,
+1116,Toothpaste,Burger,Chips,Coffee,Water Bottle
+1117,Cake,Ice Cream,,,
+1118,Chips,Soap,Juice,,
+1119,Oranges,Cereal,Pepsi,Burger,Bread
+1120,Ice Cream,Coke,Toothpaste,Cheese,Donut
+1121,Oranges,Soap,Salt,Milk,
+1122,Eggs,Bananas,Apples,,
+1123,Chicken,Sugar,Coke,Chips,Eggs
+1124,Cereal,Oranges,Salt,Pepsi,Donut
+1125,Burger,Ice Cream,Salt,,
+1126,Cake,Ice Cream,Biscuits,,
+1127,Cereal,Chips,,,
+1128,Cheese,Ice Cream,Tea,,
+1129,Apples,Oranges,Shampoo,Soap,Tea
+1130,Tea,Cereal,Juice,Pizza,Ice Cream
+1131,Burger,Tea,Coke,Cereal,
+1132,Biscuits,Sugar,Juice,,
+1133,Chips,Biscuits,Coke,Eggs,Juice
+1134,Pepsi,Tea,Oranges,Water Bottle,
+1135,Butter,Tea,,,
+1136,Cereal,Biscuits,,,
+1137,Biscuits,Cake,Pizza,Shampoo,
+1138,Apples,Eggs,,,
+1139,Shampoo,Tea,Pasta,,
+1140,Pepsi,Apples,Tea,Pizza,
+1141,Donut,Cereal,Apples,,
+1142,Butter,Pasta,Burger,Biscuits,
+1143,Chicken,Pasta,Tea,Salt,Oranges
+1144,Salt,Oranges,,,
+1145,Cereal,Oranges,,,
+1146,Chicken,Oranges,Eggs,Shampoo,
+1147,Butter,Coke,Coffee,Salt,Milk
+1148,Chips,Ice Cream,Coffee,Chicken,
+1149,Rice,Shampoo,,,
+1150,Chicken,Pasta,Coke,Apples,Salt
+1151,Juice,Ice Cream,Cake,Cheese,Bananas
+1152,Cheese,Bread,Ice Cream,,
+1153,Pizza,Pasta,,,
+1154,Tea,Ice Cream,Chips,,
+1155,Apples,Eggs,Juice,Cereal,Donut
+1156,Tea,Ice Cream,Pepsi,Sugar,Cheese
+1157,Cheese,Ice Cream,,,
+1158,Salt,Eggs,,,
+1159,Burger,Cereal,,,
+1160,Tea,Salt,Coffee,Cheese,Apples
+1161,Sugar,Water Bottle,,,
+1162,Apples,Tea,Bread,Shampoo,Toothpaste
+1163,Cake,Juice,Eggs,Cereal,Sugar
+1164,Soap,Cake,,,
+1165,Ice Cream,Soap,,,
+1166,Apples,Cereal,Cake,,
+1167,Coffee,Sugar,,,
+1168,Soap,Rice,Bananas,Coke,
+1169,Cake,Biscuits,,,
+1170,Tea,Pasta,Water Bottle,Chips,
+1171,Bananas,Burger,,,
+1172,Salt,Burger,Tea,,
+1173,Shampoo,Water Bottle,Chips,Toothpaste,Pizza
+1174,Juice,Soap,Cheese,Toothpaste,Coke
+1175,Butter,Oranges,,,
+1176,Cheese,Coke,,,
+1177,Juice,Oranges,Milk,Toothpaste,Biscuits
+1178,Pepsi,Bananas,,,
+1179,Pizza,Cereal,,,
+1180,Juice,Salt,Bananas,,
+1181,Biscuits,Eggs,,,
+1182,Rice,Bread,Chicken,Sugar,
+1183,Sugar,Shampoo,Pepsi,Cake,
+1184,Cheese,Shampoo,Oranges,,
+1185,Pepsi,Cheese,Water Bottle,,
+1186,Apples,Pasta,Bananas,Pizza,Chicken
+1187,Chips,Ice Cream,Butter,Soap,
+1188,Burger,Pepsi,,,
+1189,Juice,Salt,Coke,Donut,Butter
+1190,Tea,Pizza,Cereal,Burger,
+1191,Pepsi,Burger,Toothpaste,Cake,Apples
+1192,Coffee,Toothpaste,Juice,Pizza,Apples
+1193,Chicken,Chips,Butter,,
+1194,Rice,Milk,Bananas,Butter,Ice Cream
+1195,Coke,Cheese,,,
+1196,Water Bottle,Cereal,Pasta,Chips,Coffee
+1197,Ice Cream,Eggs,Rice,Burger,
+1198,Burger,Oranges,Bread,,
+1199,Chicken,Apples,Pepsi,Pasta,
+1200,Sugar,Pepsi,Salt,,
+1201,Bread,Donut,Eggs,,
+1202,Bread,Rice,Shampoo,Tea,
+1203,Eggs,Coffee,Water Bottle,Butter,Pizza
+1204,Pizza,Butter,,,
+1205,Pepsi,Pizza,,,
+1206,Soap,Shampoo,Cereal,,
+1207,Pizza,Cheese,Bread,Soap,Cereal
+1208,Chips,Pasta,Cake,,
+1209,Milk,Soap,Bananas,Toothpaste,
+1210,Eggs,Shampoo,Coffee,Water Bottle,
+1211,Chips,Donut,Ice Cream,Salt,Cheese
+1212,Milk,Toothpaste,Sugar,Oranges,Cheese
+1213,Cake,Juice,Bananas,Oranges,
+1214,Oranges,Chips,Rice,,
+1215,Tea,Chicken,Water Bottle,Donut,Bananas
+1216,Milk,Ice Cream,,,
+1217,Rice,Ice Cream,Burger,,
+1218,Pizza,Tea,Sugar,Soap,
+1219,Bread,Bananas,,,
+1220,Tea,Juice,Milk,Shampoo,Oranges
+1221,Oranges,Ice Cream,Sugar,Coffee,
+1222,Water Bottle,Pasta,,,
+1223,Eggs,Pasta,Cheese,Butter,
+1224,Rice,Donut,,,
+1225,Water Bottle,Shampoo,,,
+1226,Salt,Cake,Coffee,,
+1227,Pizza,Burger,Cake,,
+1228,Juice,Butter,,,
+1229,Bread,Burger,Eggs,,
+1230,Soap,Butter,Bread,,
+1231,Juice,Bread,Toothpaste,Burger,
+1232,Coffee,Biscuits,Pepsi,Soap,
+1233,Coffee,Pizza,Oranges,Biscuits,Sugar
+1234,Pasta,Milk,Shampoo,Toothpaste,Cheese
+1235,Eggs,Pizza,Juice,Coke,Chicken
+1236,Shampoo,Rice,,,
+1237,Shampoo,Apples,Tea,,
+1238,Milk,Shampoo,Chips,Soap,Oranges
+1239,Pepsi,Biscuits,,,
+1240,Salt,Pepsi,Coke,Donut,Oranges
+1241,Soap,Coffee,Pizza,Eggs,Tea
+1242,Salt,Pepsi,Coffee,Apples,Ice Cream
+1243,Soap,Salt,,,
+1244,Biscuits,Butter,Shampoo,,
+1245,Butter,Burger,,,
+1246,Shampoo,Salt,,,
+1247,Toothpaste,Eggs,,,
+1248,Apples,Sugar,,,
+1249,Pasta,Ice Cream,Milk,Tea,
+1250,Chips,Pepsi,Burger,Milk,Cheese
+1251,Bread,Toothpaste,Sugar,Pizza,Bananas
+1252,Ice Cream,Biscuits,,,
+1253,Butter,Coke,,,
+1254,Cheese,Ice Cream,Soap,,
+1255,Donut,Chips,,,
+1256,Chicken,Ice Cream,Soap,Burger,
+1257,Chicken,Pasta,Cheese,Apples,Burger
+1258,Donut,Salt,,,
+1259,Cake,Bread,Rice,,
+1260,Pepsi,Cake,Milk,Chicken,Cheese
+1261,Biscuits,Cheese,Toothpaste,,
+1262,Eggs,Tea,Toothpaste,,
+1263,Milk,Chicken,,,
+1264,Donut,Cake,Salt,Milk,Soap
+1265,Cake,Coffee,Eggs,Water Bottle,Chips
+1266,Biscuits,Shampoo,Toothpaste,Milk,Pepsi
+1267,Oranges,Pasta,Salt,Cake,
+1268,Bananas,Milk,Water Bottle,,
+1269,Biscuits,Cheese,Pizza,Soap,
+1270,Burger,Toothpaste,Milk,Donut,Rice
+1271,Coffee,Cheese,Sugar,Toothpaste,Pepsi
+1272,Pizza,Chicken,Cheese,Pasta,Bread
+1273,Bread,Bananas,Coke,Chicken,Biscuits
+1274,Cake,Biscuits,Cereal,,
+1275,Milk,Chicken,Soap,,
+1276,Milk,Cheese,Ice Cream,Tea,Sugar
+1277,Water Bottle,Pizza,Pasta,Coke,
+1278,Chicken,Burger,Bananas,,
+1279,Chips,Sugar,,,
+1280,Pasta,Eggs,Coffee,,
+1281,Burger,Ice Cream,Donut,Cereal,Biscuits
+1282,Bananas,Apples,Cheese,,
+1283,Salt,Eggs,,,
+1284,Pasta,Coke,Chips,Oranges,
+1285,Eggs,Shampoo,,,
+1286,Pizza,Pepsi,Toothpaste,,
+1287,Bananas,Toothpaste,Milk,Chips,
+1288,Water Bottle,Pasta,Pepsi,,
+1289,Bread,Eggs,,,
+1290,Sugar,Burger,Coffee,Cereal,
+1291,Pepsi,Bread,Butter,Toothpaste,
+1292,Juice,Coffee,,,
+1293,Shampoo,Rice,Chips,Cake,Apples
+1294,Juice,Salt,,,
+1295,Toothpaste,Coffee,Cereal,,
+1296,Pizza,Chicken,Cake,Soap,Rice
+1297,Water Bottle,Pasta,,,
+1298,Coffee,Butter,,,
+1299,Juice,Burger,Apples,Salt,Bread
+1300,Rice,Salt,Chips,Ice Cream,Coke
+1301,Pizza,Coke,Burger,,
+1302,Chicken,Oranges,Milk,Shampoo,
+1303,Bananas,Donut,Chicken,Water Bottle,
+1304,Oranges,Chips,Water Bottle,Milk,Coffee
+1305,Water Bottle,Sugar,Milk,Coffee,Biscuits
+1306,Rice,Toothpaste,,,
+1307,Rice,Biscuits,Chips,,
+1308,Milk,Cheese,,,
+1309,Toothpaste,Apples,Pasta,Coke,Coffee
+1310,Biscuits,Water Bottle,Burger,Butter,
+1311,Burger,Apples,Pizza,,
+1312,Tea,Soap,Toothpaste,,
+1313,Oranges,Milk,,,
+1314,Cheese,Soap,,,
+1315,Pizza,Butter,Salt,Ice Cream,
+1316,Ice Cream,Chips,Cake,,
+1317,Chicken,Coffee,,,
+1318,Butter,Cake,Bread,Chips,
+1319,Cheese,Apples,Shampoo,Cereal,Bananas
+1320,Pepsi,Coke,Coffee,Donut,
+1321,Water Bottle,Apples,Toothpaste,Cheese,Salt
+1322,Pepsi,Cheese,Cereal,Cake,Salt
+1323,Biscuits,Oranges,Apples,Ice Cream,Soap
+1324,Pepsi,Eggs,Coffee,Juice,Tea
+1325,Pepsi,Butter,Juice,Milk,Bread
+1326,Chicken,Sugar,Coffee,Ice Cream,
+1327,Rice,Eggs,,,
+1328,Apples,Chicken,Cake,Butter,Biscuits
+1329,Bread,Water Bottle,,,
+1330,Tea,Bananas,Sugar,Chicken,
+1331,Bread,Pizza,,,
+1332,Salt,Shampoo,Chicken,Cheese,
+1333,Bananas,Shampoo,Water Bottle,,
+1334,Butter,Rice,Pizza,Coffee,
+1335,Eggs,Bread,,,
+1336,Milk,Eggs,,,
+1337,Apples,Chips,,,
+1338,Toothpaste,Water Bottle,,,
+1339,Water Bottle,Rice,Ice Cream,Coffee,
+1340,Bananas,Donut,Milk,Pasta,Salt
+1341,Oranges,Coffee,,,
+1342,Pizza,Bread,Eggs,Pepsi,Oranges
+1343,Cheese,Milk,Butter,,
+1344,Sugar,Pasta,,,
+1345,Sugar,Donut,Pepsi,Rice,
+1346,Shampoo,Rice,Pasta,Cheese,
+1347,Juice,Donut,Eggs,Apples,Shampoo
+1348,Bread,Milk,Oranges,,
+1349,Toothpaste,Tea,Bananas,Pizza,
+1350,Juice,Tea,Toothpaste,Burger,
+1351,Milk,Cheese,Toothpaste,Coke,Bananas
+1352,Pasta,Burger,,,
+1353,Pizza,Ice Cream,Juice,,
+1354,Cereal,Sugar,Bananas,Soap,
+1355,Shampoo,Donut,Oranges,Chips,
+1356,Milk,Coke,,,
+1357,Water Bottle,Eggs,Soap,,
+1358,Pasta,Coffee,Toothpaste,,
+1359,Coke,Pizza,Bread,Juice,
+1360,Salt,Donut,Rice,,
+1361,Bread,Toothpaste,Ice Cream,,
+1362,Cereal,Ice Cream,Shampoo,Pepsi,
+1363,Rice,Chicken,Pepsi,Toothpaste,
+1364,Tea,Butter,Milk,Eggs,
+1365,Cheese,Apples,Bread,Ice Cream,Soap
+1366,Water Bottle,Cereal,Rice,Tea,Cheese
+1367,Water Bottle,Toothpaste,,,
+1368,Bread,Butter,Chicken,,
+1369,Ice Cream,Soap,Bread,Biscuits,
+1370,Chips,Water Bottle,Pepsi,,
+1371,Salt,Toothpaste,Butter,Oranges,
+1372,Chips,Pizza,,,
+1373,Coke,Tea,Pepsi,Biscuits,Water Bottle
+1374,Bread,Bananas,Cheese,Ice Cream,
+1375,Coke,Pasta,Juice,Chicken,Coffee
+1376,Coffee,Salt,Sugar,Tea,Biscuits
+1377,Tea,Pepsi,Eggs,Water Bottle,
+1378,Rice,Coke,,,
+1379,Pizza,Bread,Rice,Sugar,
+1380,Toothpaste,Pasta,,,
+1381,Pepsi,Apples,Eggs,Cheese,Pizza
+1382,Apples,Chips,,,
+1383,Cake,Tea,Salt,Rice,
+1384,Burger,Shampoo,,,
+1385,Shampoo,Bread,,,
+1386,Shampoo,Biscuits,Pepsi,,
+1387,Sugar,Water Bottle,,,
+1388,Bananas,Pepsi,Cheese,Biscuits,Coke
+1389,Salt,Cheese,,,
+1390,Juice,Apples,Coffee,Donut,
+1391,Bread,Pepsi,,,
+1392,Rice,Chips,Soap,Juice,Butter
+1393,Sugar,Rice,Juice,,
+1394,Burger,Toothpaste,Butter,Water Bottle,
+1395,Cereal,Cake,Oranges,,
+1396,Bread,Ice Cream,,,
+1397,Chips,Coffee,Donut,,
+1398,Coke,Bread,,,
+1399,Juice,Cheese,Salt,Tea,Cake
+1400,Eggs,Coke,Sugar,Toothpaste,
+1401,Biscuits,Apples,Burger,Pasta,
+1402,Sugar,Pizza,Chips,Soap,
+1403,Shampoo,Donut,Ice Cream,Bread,
+1404,Toothpaste,Milk,Burger,Chips,
+1405,Cereal,Shampoo,Coke,,
+1406,Oranges,Shampoo,,,
+1407,Pizza,Juice,Ice Cream,Sugar,Toothpaste
+1408,Pepsi,Juice,Water Bottle,Coke,Sugar
+1409,Cake,Biscuits,,,
+1410,Biscuits,Juice,Shampoo,Coffee,
+1411,Cereal,Burger,,,
+1412,Burger,Chicken,Donut,,
+1413,Chips,Salt,Ice Cream,Butter,Pepsi
+1414,Soap,Sugar,,,
+1415,Cake,Bananas,,,
+1416,Rice,Cereal,,,
+1417,Burger,Eggs,Salt,Bread,
+1418,Toothpaste,Butter,Bananas,Water Bottle,
+1419,Biscuits,Shampoo,Cake,Apples,Pizza
+1420,Oranges,Biscuits,Chicken,,
+1421,Rice,Toothpaste,Coke,Donut,
+1422,Tea,Chips,Oranges,Coke,
+1423,Tea,Pepsi,,,
+1424,Coffee,Chicken,Butter,Eggs,Soap
+1425,Bananas,Donut,Water Bottle,,
+1426,Salt,Pizza,Pepsi,Chicken,Eggs
+1427,Pizza,Soap,Shampoo,Eggs,
+1428,Cake,Pepsi,,,
+1429,Pasta,Juice,Donut,Shampoo,Bananas
+1430,Milk,Pasta,Apples,Donut,
+1431,Coke,Bananas,Pasta,,
+1432,Soap,Toothpaste,,,
+1433,Juice,Chips,Rice,Milk,
+1434,Burger,Cereal,Cake,,
+1435,Chips,Cereal,Pepsi,Oranges,Coffee
+1436,Eggs,Oranges,Burger,Tea,Chicken
+1437,Pizza,Shampoo,Bread,,
+1438,Apples,Bread,,,
+1439,Donut,Toothpaste,,,
+1440,Eggs,Pepsi,Pasta,Cereal,
+1441,Coffee,Burger,Butter,Cereal,Chicken
+1442,Chips,Shampoo,Coke,Apples,Cheese
+1443,Biscuits,Pasta,Cheese,,
+1444,Chips,Water Bottle,,,
+1445,Ice Cream,Pepsi,Cereal,,
+1446,Shampoo,Pizza,Tea,Pepsi,Pasta
+1447,Butter,Biscuits,Chicken,Salt,Chips
+1448,Burger,Apples,Donut,,
+1449,Coke,Tea,Donut,Coffee,Butter
+1450,Pasta,Eggs,,,
+1451,Rice,Cake,Oranges,Pasta,Salt
+1452,Donut,Coke,Sugar,Salt,
+1453,Soap,Salt,Burger,,
+1454,Butter,Biscuits,Eggs,Juice,
+1455,Apples,Oranges,Ice Cream,Shampoo,
+1456,Biscuits,Water Bottle,Bread,Juice,Cheese
+1457,Rice,Donut,Cereal,Coffee,
+1458,Eggs,Shampoo,Cereal,Coffee,Burger
+1459,Donut,Water Bottle,Rice,Butter,
+1460,Biscuits,Milk,Toothpaste,,
+1461,Pepsi,Rice,,,
+1462,Pasta,Rice,,,
+1463,Cereal,Sugar,Burger,,
+1464,Juice,Coke,,,
+1465,Coffee,Chicken,Cake,,
+1466,Bread,Coke,,,
+1467,Bananas,Tea,Pasta,Biscuits,
+1468,Cereal,Bananas,Chicken,Salt,
+1469,Rice,Cereal,,,
+1470,Tea,Bananas,Apples,Butter,Salt
+1471,Shampoo,Eggs,,,
+1472,Cereal,Ice Cream,Bread,Coffee,
+1473,Cheese,Tea,Coke,Pizza,
+1474,Biscuits,Cheese,,,
+1475,Cake,Chips,,,
+1476,Chicken,Water Bottle,Pepsi,,
+1477,Apples,Oranges,Cake,Cereal,Ice Cream
+1478,Sugar,Milk,,,
+1479,Cake,Shampoo,Donut,Pizza,Chicken
+1480,Chicken,Bananas,Coke,,
+1481,Apples,Cake,,,
+1482,Biscuits,Coke,Burger,Bananas,Bread
+1483,Oranges,Coke,Chicken,,
+1484,Pasta,Soap,Apples,Tea,Salt
+1485,Butter,Coffee,Soap,Apples,Juice
+1486,Sugar,Pasta,,,
+1487,Apples,Cereal,Soap,Burger,Salt
+1488,Bread,Rice,,,
+1489,Eggs,Pizza,Salt,Chicken,
+1490,Biscuits,Cheese,Bananas,Rice,
+1491,Oranges,Milk,Juice,,
+1492,Cheese,Apples,Ice Cream,,
+1493,Juice,Pepsi,,,
+1494,Coffee,Pasta,Tea,Eggs,
+1495,Apples,Biscuits,Pasta,Chips,
+1496,Cheese,Toothpaste,Shampoo,Ice Cream,Burger
+1497,Salt,Coke,Juice,Shampoo,Biscuits
+1498,Pizza,Biscuits,Oranges,Sugar,Pasta
+1499,Bananas,Soap,Pasta,Oranges,
+1500,Donut,Water Bottle,Pepsi,,
+1501,Chicken,Pasta,Cereal,Salt,Shampoo
+1502,Coke,Cake,Tea,Soap,
+1503,Butter,Apples,,,
+1504,Cheese,Pepsi,Shampoo,Tea,
+1505,Milk,Coffee,Biscuits,,
+1506,Milk,Pizza,Tea,,
+1507,Cheese,Chips,Rice,,
+1508,Pasta,Chicken,Coffee,Water Bottle,Eggs
+1509,Cereal,Coffee,Apples,,
+1510,Eggs,Coke,Water Bottle,,
+1511,Sugar,Juice,,,
+1512,Shampoo,Toothpaste,Pizza,Juice,Butter
+1513,Pizza,Butter,Tea,Oranges,
+1514,Oranges,Donut,Toothpaste,,
+1515,Bread,Coffee,Apples,Eggs,
+1516,Donut,Cereal,Milk,Biscuits,
+1517,Butter,Bread,,,
+1518,Apples,Pepsi,Cake,Coke,
+1519,Milk,Pasta,Toothpaste,Bread,Coffee
+1520,Coffee,Chips,Chicken,,
+1521,Chicken,Oranges,Shampoo,Coke,Cereal
+1522,Salt,Chips,,,
+1523,Water Bottle,Milk,Burger,Pizza,
+1524,Coke,Apples,Ice Cream,Milk,Coffee
+1525,Eggs,Oranges,Shampoo,Ice Cream,Pasta
+1526,Sugar,Tea,Coffee,,
+1527,Cake,Soap,Bread,Chicken,Chips
+1528,Sugar,Cake,Apples,Soap,
+1529,Cake,Butter,,,
+1530,Pepsi,Ice Cream,Cheese,Salt,Oranges
+1531,Bread,Ice Cream,Cake,Pepsi,
+1532,Juice,Biscuits,Eggs,Donut,
+1533,Pasta,Tea,Milk,Eggs,Cereal
+1534,Pasta,Shampoo,Cheese,,
+1535,Oranges,Pizza,Chicken,,
+1536,Eggs,Soap,Coffee,Tea,Butter
+1537,Apples,Bananas,Juice,,
+1538,Oranges,Pasta,,,
+1539,Coke,Chicken,Oranges,Tea,
+1540,Bread,Milk,Oranges,Apples,
+1541,Water Bottle,Cake,Ice Cream,,
+1542,Cake,Cereal,Milk,Chips,Eggs
+1543,Butter,Eggs,,,
+1544,Chicken,Chips,Shampoo,Juice,Bread
+1545,Chips,Donut,Cake,Bananas,Pasta
+1546,Pasta,Ice Cream,,,
+1547,Soap,Biscuits,,,
+1548,Biscuits,Coffee,Cake,Juice,Pizza
+1549,Burger,Donut,Salt,Toothpaste,Milk
+1550,Water Bottle,Apples,,,
+1551,Chicken,Juice,Butter,Oranges,Cake
+1552,Eggs,Salt,,,
+1553,Coke,Salt,Coffee,,
+1554,Donut,Ice Cream,,,
+1555,Cereal,Milk,,,
+1556,Water Bottle,Cake,Chips,,
+1557,Bread,Tea,,,
+1558,Toothpaste,Biscuits,Burger,Rice,
+1559,Donut,Water Bottle,Pizza,,
+1560,Chips,Eggs,Cereal,,
+1561,Chicken,Donut,Toothpaste,,
+1562,Ice Cream,Cereal,Biscuits,Donut,Juice
+1563,Shampoo,Chicken,Salt,,
+1564,Coke,Eggs,Burger,Milk,Oranges
+1565,Tea,Oranges,Chips,Pizza,
+1566,Bread,Salt,Apples,Biscuits,Burger
+1567,Soap,Cereal,Pasta,Butter,Toothpaste
+1568,Pepsi,Apples,Biscuits,Bananas,Burger
+1569,Toothpaste,Apples,,,
+1570,Eggs,Donut,Burger,Chips,Cake
+1571,Apples,Biscuits,,,
+1572,Chicken,Coke,Eggs,Ice Cream,Shampoo
+1573,Eggs,Butter,Water Bottle,Oranges,Bananas
+1574,Pepsi,Eggs,Oranges,,
+1575,Coffee,Pasta,,,
+1576,Sugar,Toothpaste,Salt,,
+1577,Pepsi,Cereal,Juice,,
+1578,Soap,Ice Cream,Toothpaste,Donut,
+1579,Juice,Oranges,,,
+1580,Butter,Coffee,Bananas,Pizza,Biscuits
+1581,Chips,Oranges,Cake,Salt,
+1582,Sugar,Biscuits,Tea,,
+1583,Apples,Cake,Burger,Cereal,
+1584,Butter,Oranges,,,
+1585,Sugar,Bread,Juice,Chips,Burger
+1586,Pepsi,Oranges,,,
+1587,Ice Cream,Donut,Milk,Cheese,Oranges
+1588,Milk,Cereal,Salt,,
+1589,Oranges,Cake,Toothpaste,Pepsi,
+1590,Cake,Eggs,Chicken,Bread,Salt
+1591,Bread,Eggs,,,
+1592,Bread,Biscuits,Pizza,Toothpaste,
+1593,Biscuits,Coffee,Soap,Water Bottle,
+1594,Apples,Water Bottle,Donut,,
+1595,Pasta,Pepsi,Sugar,Juice,Butter
+1596,Water Bottle,Bananas,Eggs,Cheese,
+1597,Sugar,Cereal,Ice Cream,Pizza,Apples
+1598,Bananas,Burger,Pizza,Pasta,
+1599,Bananas,Pepsi,Pizza,,
+1600,Water Bottle,Ice Cream,Milk,Rice,Toothpaste
+1601,Juice,Water Bottle,Coke,,
+1602,Oranges,Burger,Butter,,
+1603,Eggs,Toothpaste,Cereal,Bread,Oranges
+1604,Tea,Coke,Bananas,,
+1605,Bread,Cheese,Toothpaste,Rice,Cake
+1606,Butter,Ice Cream,Coke,,
+1607,Juice,Soap,,,
+1608,Tea,Biscuits,,,
+1609,Butter,Donut,Salt,Milk,Shampoo
+1610,Eggs,Pizza,,,
+1611,Milk,Oranges,,,
+1612,Water Bottle,Salt,Bread,,
+1613,Butter,Cereal,Sugar,,
+1614,Cheese,Toothpaste,Pepsi,,
+1615,Bananas,Sugar,Chips,Shampoo,
+1616,Bread,Coffee,,,
+1617,Donut,Cake,Salt,Butter,
+1618,Coffee,Rice,Toothpaste,Chicken,Water Bottle
+1619,Apples,Butter,Coffee,Biscuits,
+1620,Donut,Chips,Biscuits,Apples,Milk
+1621,Soap,Water Bottle,,,
+1622,Burger,Coke,Water Bottle,Milk,Bananas
+1623,Coke,Rice,Chicken,,
+1624,Biscuits,Chips,,,
+1625,Bananas,Pepsi,Pizza,,
+1626,Chips,Apples,,,
+1627,Eggs,Ice Cream,,,
+1628,Cake,Juice,Soap,,
+1629,Juice,Cereal,Soap,Salt,Burger
+1630,Eggs,Pepsi,Soap,Bananas,Pasta
+1631,Butter,Toothpaste,Shampoo,,
+1632,Rice,Water Bottle,Cereal,Coffee,
+1633,Biscuits,Cereal,,,
+1634,Coffee,Donut,Bananas,,
+1635,Coke,Pizza,,,
+1636,Chips,Tea,Burger,,
+1637,Soap,Oranges,,,
+1638,Cheese,Bread,Rice,,
+1639,Pepsi,Bread,Salt,Burger,
+1640,Rice,Burger,,,
+1641,Apples,Pepsi,Ice Cream,,
+1642,Pepsi,Bread,Burger,Pizza,Eggs
+1643,Milk,Burger,Chips,Bread,Eggs
+1644,Coffee,Pasta,Pepsi,Pizza,Ice Cream
+1645,Cereal,Burger,Milk,Cake,
+1646,Ice Cream,Pasta,Salt,Rice,
+1647,Cheese,Rice,Pizza,Milk,
+1648,Ice Cream,Shampoo,Chips,,
+1649,Coke,Pepsi,,,
+1650,Soap,Oranges,Coffee,Chicken,Chips
+1651,Rice,Chicken,Pepsi,,
+1652,Biscuits,Chips,Shampoo,Butter,Apples
+1653,Coffee,Cheese,Oranges,Cake,
+1654,Juice,Ice Cream,Salt,Bread,
+1655,Water Bottle,Soap,,,
+1656,Apples,Toothpaste,Shampoo,Pasta,Coke
+1657,Tea,Rice,Bread,Eggs,
+1658,Juice,Cereal,Donut,,
+1659,Coffee,Pizza,Bread,,
+1660,Apples,Cereal,Tea,,
+1661,Burger,Bread,Ice Cream,Salt,
+1662,Milk,Pasta,,,
+1663,Toothpaste,Bread,Pizza,,
+1664,Apples,Pizza,,,
+1665,Salt,Soap,,,
+1666,Bananas,Cheese,Toothpaste,Coke,
+1667,Ice Cream,Burger,Pasta,,
+1668,Rice,Water Bottle,Sugar,,
+1669,Salt,Soap,Burger,,
+1670,Soap,Rice,Oranges,Cake,
+1671,Apples,Biscuits,,,
+1672,Cheese,Pepsi,,,
+1673,Chicken,Cereal,,,
+1674,Cake,Tea,,,
+1675,Coffee,Apples,Cereal,Eggs,
+1676,Apples,Ice Cream,Biscuits,Burger,Salt
+1677,Pizza,Biscuits,,,
+1678,Burger,Bananas,Ice Cream,Tea,
+1679,Chips,Rice,,,
+1680,Salt,Butter,Coke,Ice Cream,Eggs
+1681,Chicken,Juice,,,
+1682,Coke,Donut,Eggs,Pizza,Cake
+1683,Apples,Pasta,Milk,Water Bottle,
+1684,Eggs,Toothpaste,,,
+1685,Chicken,Pepsi,,,
+1686,Pizza,Coffee,,,
+1687,Sugar,Bread,Chicken,Shampoo,
+1688,Coke,Tea,,,
+1689,Pepsi,Coffee,Cheese,,
+1690,Oranges,Rice,Chicken,Ice Cream,
+1691,Tea,Rice,Coke,,
+1692,Biscuits,Shampoo,Salt,Tea,Coke
+1693,Ice Cream,Coffee,Bread,Apples,
+1694,Eggs,Apples,Cake,,
+1695,Oranges,Pizza,,,
+1696,Bread,Oranges,Burger,Biscuits,
+1697,Water Bottle,Salt,,,
+1698,Butter,Apples,Biscuits,Juice,Milk
+1699,Biscuits,Coffee,,,
+1700,Pepsi,Oranges,,,
+1701,Apples,Salt,Cake,,
+1702,Rice,Salt,Pepsi,Milk,Bananas
+1703,Sugar,Bananas,,,
+1704,Chips,Ice Cream,Tea,Soap,
+1705,Cheese,Water Bottle,,,
+1706,Coke,Toothpaste,,,
+1707,Rice,Bread,Shampoo,,
+1708,Shampoo,Pizza,Donut,,
+1709,Burger,Water Bottle,Coffee,Chicken,Bread
+1710,Sugar,Rice,,,
+1711,Coffee,Burger,Eggs,Milk,Sugar
+1712,Biscuits,Chicken,Pizza,,
+1713,Pepsi,Milk,,,
+1714,Pasta,Toothpaste,,,
+1715,Coke,Chicken,,,
+1716,Milk,Donut,Bread,,
+1717,Donut,Chicken,Rice,Chips,Shampoo
+1718,Cheese,Pasta,Salt,Shampoo,Biscuits
+1719,Rice,Chicken,,,
+1720,Sugar,Cheese,Biscuits,Toothpaste,Oranges
+1721,Burger,Bananas,Salt,Sugar,
+1722,Pizza,Cereal,Apples,Salt,Milk
+1723,Salt,Water Bottle,,,
+1724,Tea,Water Bottle,Sugar,Eggs,
+1725,Cake,Chicken,Bananas,Chips,
+1726,Donut,Pizza,Cake,,
+1727,Pepsi,Water Bottle,Sugar,,
+1728,Ice Cream,Salt,Pizza,Butter,Pasta
+1729,Cereal,Butter,Burger,Sugar,Bananas
+1730,Milk,Pasta,,,
+1731,Cheese,Apples,,,
+1732,Water Bottle,Cereal,,,
+1733,Biscuits,Rice,,,
+1734,Coffee,Cheese,Tea,Soap,
+1735,Pepsi,Bananas,Milk,Juice,Tea
+1736,Pepsi,Oranges,Chicken,,
+1737,Chips,Water Bottle,Milk,Bananas,Sugar
+1738,Chicken,Coke,Oranges,,
+1739,Shampoo,Pepsi,,,
+1740,Pizza,Donut,Oranges,,
+1741,Milk,Salt,Rice,Toothpaste,Coke
+1742,Cake,Cereal,,,
+1743,Soap,Tea,Toothpaste,,
+1744,Sugar,Chicken,,,
+1745,Water Bottle,Donut,Cake,Pizza,Pepsi
+1746,Donut,Pasta,Soap,Coke,
+1747,Rice,Cake,,,
+1748,Oranges,Pizza,Soap,Butter,Biscuits
+1749,Donut,Apples,Chips,,
+1750,Donut,Soap,,,
+1751,Oranges,Chicken,Pepsi,Donut,
+1752,Butter,Cheese,,,
+1753,Bananas,Oranges,Ice Cream,Sugar,
+1754,Cheese,Chicken,Pepsi,Toothpaste,Sugar
+1755,Cheese,Chicken,Bananas,Coke,
+1756,Pizza,Pasta,Burger,Shampoo,
+1757,Donut,Cheese,Coke,Coffee,Pasta
+1758,Shampoo,Donut,,,
+1759,Shampoo,Biscuits,Salt,Pasta,Cake
+1760,Pepsi,Pasta,Chips,,
+1761,Pasta,Bread,Butter,,
+1762,Coke,Eggs,Juice,Biscuits,Burger
+1763,Oranges,Ice Cream,Sugar,Coffee,
+1764,Butter,Tea,Cereal,Rice,
+1765,Donut,Rice,Shampoo,Butter,Milk
+1766,Pizza,Rice,,,
+1767,Coffee,Bread,,,
+1768,Cheese,Bread,,,
+1769,Salt,Chips,,,
+1770,Coke,Burger,,,
+1771,Tea,Bananas,Water Bottle,Sugar,
+1772,Apples,Pepsi,,,
+1773,Oranges,Coke,,,
+1774,Apples,Coffee,Ice Cream,Milk,
+1775,Pasta,Tea,,,
+1776,Chicken,Apples,Biscuits,Juice,Soap
+1777,Pizza,Coffee,Biscuits,Bananas,
+1778,Oranges,Water Bottle,,,
+1779,Pizza,Pasta,Water Bottle,Chips,Oranges
+1780,Burger,Butter,Oranges,,
+1781,Cereal,Salt,Toothpaste,,
+1782,Butter,Eggs,Cheese,Oranges,Toothpaste
+1783,Soap,Pizza,,,
+1784,Cake,Bananas,Rice,,
+1785,Pasta,Shampoo,Coffee,Water Bottle,Coke
+1786,Chips,Soap,Shampoo,,
+1787,Cake,Bread,Eggs,Coffee,Cereal
+1788,Bread,Shampoo,Toothpaste,Donut,
+1789,Pizza,Butter,,,
+1790,Donut,Sugar,Oranges,,
+1791,Milk,Burger,Sugar,,
+1792,Water Bottle,Bread,Salt,,
+1793,Bread,Butter,Sugar,Coffee,Shampoo
+1794,Chips,Coffee,Juice,Water Bottle,
+1795,Oranges,Coke,Cereal,,
+1796,Tea,Biscuits,Bananas,Butter,Donut
+1797,Water Bottle,Bread,Chicken,Cake,
+1798,Sugar,Milk,Burger,Tea,
+1799,Ice Cream,Burger,Bread,Biscuits,Chicken
+1800,Donut,Butter,Salt,Cheese,
+1801,Coffee,Bread,,,
+1802,Shampoo,Chips,,,
+1803,Cake,Tea,Pasta,,
+1804,Chicken,Water Bottle,Butter,,
+1805,Ice Cream,Water Bottle,Pasta,,
+1806,Donut,Soap,Cheese,Eggs,Coffee
+1807,Biscuits,Juice,Butter,,
+1808,Apples,Chips,,,
+1809,Butter,Eggs,Juice,Tea,
+1810,Juice,Pasta,Bananas,,
+1811,Ice Cream,Cereal,,,
+1812,Water Bottle,Juice,Butter,Shampoo,
+1813,Sugar,Chicken,Coke,Pizza,Cheese
+1814,Pizza,Eggs,Cheese,Bananas,
+1815,Cake,Sugar,Burger,Chicken,Oranges
+1816,Coffee,Ice Cream,,,
+1817,Chicken,Milk,Pasta,,
+1818,Pasta,Burger,Biscuits,Pepsi,
+1819,Water Bottle,Biscuits,Butter,Sugar,
+1820,Biscuits,Eggs,Shampoo,Sugar,
+1821,Biscuits,Coffee,Donut,Oranges,
+1822,Burger,Tea,Juice,Coke,
+1823,Eggs,Cheese,Milk,,
+1824,Biscuits,Apples,Soap,Coke,
+1825,Butter,Milk,Tea,,
+1826,Pepsi,Pizza,,,
+1827,Pasta,Cereal,Water Bottle,Butter,Juice
+1828,Juice,Tea,Cereal,,
+1829,Oranges,Biscuits,Eggs,Water Bottle,
+1830,Toothpaste,Milk,Chicken,,
+1831,Pizza,Ice Cream,Shampoo,,
+1832,Oranges,Shampoo,,,
+1833,Ice Cream,Toothpaste,,,
+1834,Cheese,Bread,Sugar,Pasta,Soap
+1835,Apples,Bananas,Chicken,Eggs,Cake
+1836,Ice Cream,Pepsi,Eggs,Soap,
+1837,Eggs,Ice Cream,Coffee,,
+1838,Pepsi,Cheese,Chips,Salt,Butter
+1839,Oranges,Cheese,Tea,Salt,Cereal
+1840,Pasta,Biscuits,Cereal,Rice,Ice Cream
+1841,Oranges,Pizza,,,
+1842,Eggs,Tea,Pizza,,
+1843,Chicken,Chips,Coke,,
+1844,Soap,Cake,Chicken,Cheese,
+1845,Salt,Coffee,Pizza,Burger,Bananas
+1846,Salt,Donut,Coke,,
+1847,Cake,Juice,,,
+1848,Chicken,Juice,Bread,,
+1849,Sugar,Pizza,Eggs,,
+1850,Burger,Donut,Oranges,Sugar,Bread
+1851,Toothpaste,Juice,,,
+1852,Milk,Pizza,Bananas,,
+1853,Cheese,Ice Cream,Donut,Butter,Cereal
+1854,Donut,Chicken,Pepsi,Cereal,Oranges
+1855,Donut,Coffee,Cheese,,
+1856,Salt,Chicken,Rice,Bananas,Soap
+1857,Coffee,Soap,,,
+1858,Tea,Pizza,Apples,Shampoo,
+1859,Cereal,Coke,Cake,Cheese,
+1860,Toothpaste,Water Bottle,Tea,Coffee,Pizza
+1861,Donut,Cake,Apples,Burger,Milk
+1862,Biscuits,Pasta,Cake,Milk,Chips
+1863,Butter,Sugar,,,
+1864,Oranges,Cereal,Butter,,
+1865,Bread,Sugar,,,
+1866,Milk,Rice,,,
+1867,Butter,Juice,,,
+1868,Eggs,Cheese,Burger,Rice,Salt
+1869,Salt,Milk,,,
+1870,Toothpaste,Donut,Cereal,,
+1871,Burger,Cereal,Biscuits,Pizza,Cheese
+1872,Bread,Eggs,,,
+1873,Coffee,Donut,Apples,,
+1874,Milk,Coke,Bread,Soap,
+1875,Soap,Chips,Toothpaste,Butter,Shampoo
+1876,Juice,Biscuits,Bread,Burger,Coke
+1877,Pasta,Cereal,Ice Cream,Shampoo,
+1878,Tea,Pizza,Butter,,
+1879,Cereal,Water Bottle,Pepsi,Soap,
+1880,Bananas,Coffee,,,
+1881,Biscuits,Coke,,,
+1882,Tea,Chicken,Bananas,,
+1883,Water Bottle,Toothpaste,Biscuits,Pepsi,Soap
+1884,Soap,Apples,Bananas,Chips,Burger
+1885,Rice,Cake,Eggs,Cereal,
+1886,Milk,Rice,Cake,Tea,
+1887,Bananas,Cheese,Pizza,,
+1888,Cake,Oranges,Soap,Milk,
+1889,Cheese,Soap,,,
+1890,Milk,Cereal,Burger,,
+1891,Salt,Apples,,,
+1892,Coffee,Water Bottle,Juice,Rice,
+1893,Milk,Biscuits,,,
+1894,Soap,Ice Cream,Bread,Milk,Burger
+1895,Bread,Butter,,,
+1896,Sugar,Cereal,Bananas,Juice,Apples
+1897,Donut,Eggs,Pizza,Bread,Apples
+1898,Pizza,Juice,Coke,Soap,Oranges
+1899,Donut,Shampoo,,,
+1900,Biscuits,Eggs,,,
+1901,Oranges,Bananas,Chips,Donut,
+1902,Cereal,Donut,Bananas,,
+1903,Soap,Apples,Butter,,
+1904,Coke,Shampoo,Donut,Ice Cream,
+1905,Bananas,Bread,Milk,,
+1906,Oranges,Burger,,,
+1907,Biscuits,Coke,Ice Cream,,
+1908,Soap,Burger,,,
+1909,Sugar,Soap,Donut,Rice,
+1910,Salt,Butter,Cereal,Bread,Sugar
+1911,Chicken,Sugar,Juice,,
+1912,Water Bottle,Cheese,,,
+1913,Chips,Eggs,Rice,Donut,Soap
+1914,Apples,Pepsi,Burger,,
+1915,Ice Cream,Water Bottle,,,
+1916,Coffee,Cheese,Salt,Soap,
+1917,Cheese,Burger,Tea,,
+1918,Donut,Burger,,,
+1919,Salt,Cheese,Cereal,Ice Cream,Milk
+1920,Bananas,Water Bottle,Butter,Tea,
+1921,Rice,Sugar,Coke,Eggs,
+1922,Coke,Chips,Milk,,
+1923,Shampoo,Chips,,,
+1924,Pizza,Salt,Bread,Oranges,
+1925,Cheese,Apples,Tea,Milk,Oranges
+1926,Chips,Butter,Soap,Chicken,Cheese
+1927,Donut,Pasta,Juice,Coke,
+1928,Salt,Apples,Soap,,
+1929,Salt,Coffee,Soap,,
+1930,Water Bottle,Sugar,Pepsi,,
+1931,Apples,Biscuits,,,
+1932,Toothpaste,Salt,Burger,Water Bottle,
+1933,Soap,Water Bottle,Juice,Chips,Rice
+1934,Coffee,Pepsi,,,
+1935,Juice,Coke,Sugar,Chicken,Oranges
+1936,Ice Cream,Water Bottle,Cheese,Bananas,
+1937,Bananas,Salt,Bread,,
+1938,Biscuits,Tea,Burger,Cake,Pepsi
+1939,Bananas,Pepsi,Oranges,Water Bottle,Chicken
+1940,Sugar,Apples,Soap,,
+1941,Bread,Bananas,Ice Cream,Coffee,Eggs
+1942,Bread,Soap,Donut,Coffee,
+1943,Cheese,Pepsi,Pizza,,
+1944,Pepsi,Coke,Burger,Eggs,Chips
+1945,Pasta,Biscuits,Rice,,
+1946,Donut,Shampoo,,,
+1947,Sugar,Bananas,Shampoo,,
+1948,Biscuits,Cereal,Butter,Apples,Milk
+1949,Biscuits,Bread,Soap,Water Bottle,
+1950,Coffee,Chicken,,,
+1951,Cake,Apples,,,
+1952,Apples,Bananas,Cereal,Sugar,Biscuits
+1953,Salt,Sugar,Milk,Oranges,Tea
+1954,Burger,Eggs,Ice Cream,,
+1955,Chicken,Pepsi,,,
+1956,Salt,Tea,Chips,Milk,
+1957,Chicken,Ice Cream,,,
+1958,Water Bottle,Sugar,Apples,,
+1959,Biscuits,Donut,Coffee,,
+1960,Donut,Pasta,,,
+1961,Pasta,Cake,,,
+1962,Pasta,Coke,Soap,,
+1963,Pepsi,Milk,Ice Cream,Rice,Cheese
+1964,Cake,Soap,,,
+1965,Pepsi,Apples,Burger,Cheese,Cake
+1966,Chicken,Apples,,,
+1967,Water Bottle,Oranges,Cheese,Ice Cream,
+1968,Tea,Apples,Cheese,Chips,Butter
+1969,Soap,Tea,,,
+1970,Coke,Cake,Juice,,
+1971,Cereal,Rice,,,
+1972,Tea,Rice,Chicken,Juice,
+1973,Burger,Soap,Chips,Shampoo,
+1974,Donut,Sugar,Tea,Pasta,Biscuits
+1975,Pepsi,Cereal,Toothpaste,Oranges,Cheese
+1976,Pepsi,Cake,Apples,Sugar,
+1977,Tea,Eggs,,,
+1978,Pasta,Butter,,,
+1979,Burger,Salt,Pepsi,Chips,
+1980,Cake,Soap,,,
+1981,Pepsi,Bananas,Salt,Sugar,
+1982,Toothpaste,Sugar,Biscuits,,
+1983,Bananas,Bread,Cheese,,
+1984,Butter,Coffee,Shampoo,Apples,Chips
+1985,Rice,Butter,Shampoo,Apples,
+1986,Sugar,Soap,,,
+1987,Biscuits,Chicken,Pepsi,Bread,
+1988,Cake,Juice,Coffee,Shampoo,
+1989,Coffee,Burger,,,
+1990,Pasta,Sugar,Bananas,Ice Cream,
+1991,Donut,Rice,Bread,Juice,
+1992,Toothpaste,Pizza,Apples,Coffee,Biscuits
+1993,Soap,Chips,Juice,,
+1994,Milk,Donut,Pepsi,,
+1995,Butter,Bread,Tea,Soap,
+1996,Sugar,Coffee,Soap,,
+1997,Chips,Tea,Chicken,Toothpaste,Soap
+1998,Burger,Salt,Chips,Toothpaste,
+1999,Biscuits,Milk,,,
+2000,Rice,Pepsi,Cheese,,
+2001,Chicken,Ice Cream,Eggs,Shampoo,Cake
+2002,Bread,Cheese,,,
+2003,Milk,Pasta,Apples,Coke,
+2004,Juice,Coke,,,
+2005,Bananas,Bread,,,
+2006,Soap,Cereal,Apples,Juice,
+2007,Pasta,Milk,Coke,,
+2008,Pasta,Burger,Bananas,Eggs,
+2009,Chips,Water Bottle,Rice,,
+2010,Burger,Donut,Coffee,Milk,Apples
+2011,Oranges,Biscuits,Apples,Salt,Chips
+2012,Coke,Butter,,,
+2013,Pasta,Chicken,,,
+2014,Oranges,Ice Cream,Coke,Juice,Tea
+2015,Ice Cream,Butter,Tea,Soap,Milk
+2016,Juice,Water Bottle,Chips,Donut,
+2017,Soap,Coke,Juice,Salt,
+2018,Oranges,Pizza,Butter,,
+2019,Cereal,Donut,,,
+2020,Coke,Pepsi,Shampoo,Sugar,
+2021,Butter,Rice,Water Bottle,Cereal,
+2022,Milk,Pizza,Rice,,
+2023,Pizza,Biscuits,Milk,,
+2024,Water Bottle,Chips,,,
+2025,Cereal,Soap,Cheese,,
+2026,Soap,Apples,,,
+2027,Eggs,Toothpaste,Biscuits,,
+2028,Shampoo,Toothpaste,Ice Cream,Milk,Biscuits
+2029,Donut,Pepsi,Biscuits,Milk,Butter
+2030,Coke,Rice,Eggs,Biscuits,
+2031,Eggs,Shampoo,,,
+2032,Eggs,Shampoo,Apples,,
+2033,Bananas,Shampoo,Bread,,
+2034,Juice,Water Bottle,Coffee,Soap,
+2035,Ice Cream,Bread,Donut,Bananas,Eggs
+2036,Bread,Shampoo,Donut,Ice Cream,
+2037,Toothpaste,Juice,Shampoo,Chips,Coke
+2038,Bread,Sugar,Salt,Ice Cream,
+2039,Coke,Ice Cream,Water Bottle,Toothpaste,Oranges
+2040,Burger,Pasta,Cheese,Chicken,
+2041,Oranges,Apples,Burger,,
+2042,Toothpaste,Juice,Bread,,
+2043,Cereal,Donut,Coke,Bread,
+2044,Donut,Water Bottle,Tea,Oranges,
+2045,Rice,Water Bottle,,,
+2046,Soap,Juice,Tea,Cake,Chips
+2047,Milk,Sugar,,,
+2048,Pepsi,Cake,Ice Cream,Bananas,
+2049,Bread,Milk,Sugar,Pepsi,
+2050,Chips,Milk,Biscuits,Shampoo,
+2051,Rice,Apples,Biscuits,Bananas,Milk
+2052,Eggs,Chips,Water Bottle,,
+2053,Sugar,Bread,Shampoo,Pasta,Chips
+2054,Soap,Cake,Pepsi,,
+2055,Sugar,Tea,Biscuits,Cake,
+2056,Salt,Coke,Toothpaste,Eggs,Chips
+2057,Cake,Salt,Chicken,Ice Cream,
+2058,Biscuits,Oranges,,,
+2059,Coke,Pasta,Salt,,
+2060,Burger,Coke,Chicken,Milk,Oranges
+2061,Ice Cream,Salt,Water Bottle,,
+2062,Pasta,Sugar,Biscuits,Toothpaste,Pepsi
+2063,Shampoo,Pepsi,Toothpaste,Burger,
+2064,Tea,Coke,Apples,Cereal,
+2065,Toothpaste,Apples,Bananas,Milk,Eggs
+2066,Burger,Bananas,Apples,,
+2067,Water Bottle,Chicken,Tea,Donut,
+2068,Soap,Bananas,Pizza,Rice,Apples
+2069,Burger,Oranges,Cheese,,
+2070,Juice,Soap,Water Bottle,Toothpaste,
+2071,Oranges,Pepsi,Rice,Salt,
+2072,Water Bottle,Donut,Apples,Burger,Sugar
+2073,Burger,Apples,,,
+2074,Soap,Coffee,Donut,Coke,
+2075,Eggs,Shampoo,,,
+2076,Apples,Ice Cream,Donut,Pepsi,
+2077,Water Bottle,Cheese,Bread,,
+2078,Soap,Water Bottle,Salt,Milk,
+2079,Soap,Bananas,Butter,,
+2080,Bread,Shampoo,Sugar,Water Bottle,
+2081,Juice,Milk,Pasta,,
+2082,Donut,Milk,Sugar,Eggs,
+2083,Cereal,Coffee,,,
+2084,Donut,Cereal,Coke,Burger,
+2085,Tea,Butter,Ice Cream,Salt,
+2086,Soap,Biscuits,Salt,Sugar,Rice
+2087,Juice,Salt,,,
+2088,Eggs,Cake,,,
+2089,Burger,Chicken,Salt,Donut,
+2090,Cereal,Toothpaste,,,
+2091,Coffee,Pasta,Butter,,
+2092,Sugar,Tea,,,
+2093,Bananas,Oranges,Cheese,,
+2094,Bananas,Oranges,,,
+2095,Rice,Tea,Biscuits,,
+2096,Sugar,Water Bottle,Coffee,Cake,Biscuits
+2097,Ice Cream,Donut,Pasta,,
+2098,Water Bottle,Burger,Tea,,
+2099,Apples,Chicken,Donut,Pasta,
+2100,Chicken,Coffee,Coke,,
+2101,Soap,Salt,,,
+2102,Tea,Ice Cream,Biscuits,Bananas,
+2103,Oranges,Cereal,Toothpaste,Water Bottle,
+2104,Toothpaste,Bananas,Soap,Oranges,Cake
+2105,Eggs,Tea,Burger,Donut,
+2106,Biscuits,Cereal,Soap,Coffee,
+2107,Biscuits,Rice,Pepsi,Cake,Tea
+2108,Donut,Shampoo,Milk,,
+2109,Eggs,Burger,Butter,Donut,Sugar
+2110,Biscuits,Pasta,Milk,Butter,
+2111,Cake,Tea,Apples,,
+2112,Cereal,Bananas,Chips,Donut,
+2113,Chips,Shampoo,,,
+2114,Milk,Bread,,,
+2115,Pepsi,Ice Cream,,,
+2116,Chips,Bread,Soap,Biscuits,
+2117,Butter,Shampoo,Salt,Pizza,
+2118,Oranges,Juice,Cereal,Burger,
+2119,Cake,Chicken,,,
+2120,Chips,Water Bottle,,,
+2121,Butter,Toothpaste,Chips,Cereal,Soap
+2122,Chips,Pasta,Soap,Biscuits,
+2123,Oranges,Chicken,Chips,Juice,Bananas
+2124,Water Bottle,Pasta,,,
+2125,Toothpaste,Coke,,,
+2126,Coffee,Pizza,,,
+2127,Milk,Burger,Biscuits,Apples,
+2128,Bread,Water Bottle,Toothpaste,,
+2129,Pizza,Coke,Salt,Pepsi,
+2130,Juice,Soap,Tea,Pizza,Donut
+2131,Tea,Butter,Chips,Donut,Chicken
+2132,Cereal,Pepsi,Apples,Rice,
+2133,Bananas,Coke,,,
+2134,Oranges,Pasta,Butter,,
+2135,Water Bottle,Oranges,Pasta,,
+2136,Ice Cream,Cereal,Tea,Toothpaste,
+2137,Biscuits,Butter,Pizza,Soap,
+2138,Eggs,Butter,Soap,Burger,Water Bottle
+2139,Eggs,Water Bottle,,,
+2140,Pasta,Coffee,Eggs,Toothpaste,
+2141,Rice,Bananas,Tea,,
+2142,Pasta,Toothpaste,Cake,Ice Cream,
+2143,Soap,Sugar,Water Bottle,Bread,
+2144,Sugar,Donut,Pepsi,Bananas,
+2145,Sugar,Burger,,,
+2146,Rice,Apples,Toothpaste,,
+2147,Tea,Cake,Coffee,Apples,Ice Cream
+2148,Bread,Tea,Butter,Soap,Juice
+2149,Bread,Chicken,Donut,Rice,
+2150,Juice,Rice,Ice Cream,,
+2151,Donut,Cereal,,,
+2152,Juice,Water Bottle,Sugar,Oranges,
+2153,Chicken,Tea,Milk,,
+2154,Milk,Pepsi,Eggs,,
+2155,Chicken,Pizza,Coffee,Pepsi,Apples
+2156,Water Bottle,Apples,Coke,Donut,Cheese
+2157,Cake,Coffee,Coke,,
+2158,Water Bottle,Toothpaste,Cheese,,
+2159,Pizza,Coke,,,
+2160,Milk,Rice,Soap,Pizza,
+2161,Coke,Sugar,,,
+2162,Oranges,Chips,Pasta,Coke,Chicken
+2163,Soap,Chicken,,,
+2164,Bread,Juice,,,
+2165,Chicken,Coke,,,
+2166,Water Bottle,Cake,,,
+2167,Sugar,Pasta,,,
+2168,Pasta,Chicken,Pizza,,
+2169,Cheese,Toothpaste,,,
+2170,Chicken,Cake,Butter,Bananas,
+2171,Toothpaste,Donut,Tea,,
+2172,Juice,Chicken,Bananas,,
+2173,Coke,Butter,Sugar,Burger,
+2174,Pizza,Bananas,Shampoo,Biscuits,Coke
+2175,Tea,Toothpaste,Biscuits,Cake,Salt
+2176,Cereal,Soap,Shampoo,,
+2177,Pepsi,Cake,Pizza,Sugar,
+2178,Water Bottle,Shampoo,Salt,Cake,
+2179,Soap,Apples,Donut,Burger,
+2180,Shampoo,Sugar,Cake,Ice Cream,Coffee
+2181,Coffee,Bread,Water Bottle,Eggs,
+2182,Oranges,Donut,Soap,Juice,
+2183,Pasta,Juice,,,
+2184,Pasta,Coke,,,
+2185,Chicken,Bread,Donut,Water Bottle,Coffee
+2186,Cereal,Coke,Juice,Chicken,
+2187,Biscuits,Ice Cream,Juice,Water Bottle,
+2188,Burger,Rice,Oranges,Tea,
+2189,Donut,Juice,Toothpaste,Tea,
+2190,Pepsi,Eggs,Sugar,,
+2191,Chips,Bread,,,
+2192,Soap,Rice,,,
+2193,Salt,Biscuits,Oranges,Pepsi,Tea
+2194,Coffee,Rice,Coke,Water Bottle,Soap
+2195,Ice Cream,Soap,Water Bottle,,
+2196,Bananas,Oranges,Pizza,,
+2197,Bread,Sugar,,,
+2198,Tea,Rice,Pepsi,Bananas,
+2199,Biscuits,Oranges,Tea,Coffee,Cheese
+2200,Tea,Toothpaste,Rice,Pizza,
+2201,Chicken,Cereal,,,
+2202,Biscuits,Toothpaste,Ice Cream,Sugar,
+2203,Cheese,Oranges,Rice,,
+2204,Toothpaste,Ice Cream,Cake,Biscuits,
+2205,Rice,Tea,Oranges,Pizza,Butter
+2206,Eggs,Juice,,,
+2207,Pepsi,Sugar,,,
+2208,Burger,Rice,,,
+2209,Chips,Tea,Bananas,Burger,
+2210,Pasta,Chips,Water Bottle,,
+2211,Sugar,Toothpaste,Ice Cream,Cereal,Butter
+2212,Rice,Coke,Water Bottle,Juice,
+2213,Tea,Juice,Ice Cream,Coffee,Chicken
+2214,Coke,Toothpaste,Pizza,Shampoo,Bread
+2215,Cereal,Sugar,,,
+2216,Shampoo,Pepsi,Biscuits,Apples,
+2217,Soap,Rice,Butter,Bananas,
+2218,Oranges,Tea,Juice,,
+2219,Water Bottle,Tea,Chicken,Cereal,
+2220,Salt,Tea,Coffee,Donut,
+2221,Eggs,Donut,,,
+2222,Rice,Butter,Bananas,Donut,
+2223,Pizza,Eggs,Soap,,
+2224,Water Bottle,Sugar,,,
+2225,Burger,Biscuits,Toothpaste,Chips,Rice
+2226,Coffee,Toothpaste,Soap,Shampoo,Water Bottle
+2227,Cake,Cereal,Milk,Burger,Soap
+2228,Donut,Toothpaste,Coffee,Ice Cream,Cereal
+2229,Pasta,Donut,Rice,Butter,
+2230,Apples,Chicken,Juice,Pizza,Water Bottle
+2231,Cereal,Tea,,,
+2232,Bananas,Chips,Juice,Eggs,Butter
+2233,Cake,Milk,Chicken,Cheese,
+2234,Pasta,Juice,,,
+2235,Salt,Cake,Pepsi,Cheese,
+2236,Toothpaste,Salt,Cheese,Bread,
+2237,Cereal,Ice Cream,Coffee,,
+2238,Eggs,Coke,Chicken,,
+2239,Burger,Coffee,,,
+2240,Shampoo,Ice Cream,Toothpaste,Apples,Biscuits
+2241,Oranges,Chicken,Rice,,
+2242,Rice,Pizza,Water Bottle,Toothpaste,
+2243,Biscuits,Juice,Chips,Burger,
+2244,Ice Cream,Cake,Coffee,Salt,Pepsi
+2245,Coke,Butter,Burger,Juice,Apples
+2246,Oranges,Bananas,,,
+2247,Apples,Soap,Pizza,Juice,Cheese
+2248,Cake,Coffee,Pizza,Eggs,
+2249,Eggs,Salt,,,
+2250,Pasta,Donut,Sugar,,
+2251,Sugar,Pepsi,Donut,Soap,Cereal
+2252,Rice,Tea,Ice Cream,Milk,Sugar
+2253,Oranges,Chips,Juice,,
+2254,Pasta,Butter,Shampoo,,
+2255,Chicken,Water Bottle,Pasta,Juice,Bananas
+2256,Cheese,Pizza,Sugar,Eggs,Chicken
+2257,Sugar,Chips,,,
+2258,Salt,Toothpaste,Coke,,
+2259,Soap,Pizza,Toothpaste,Pepsi,
+2260,Burger,Eggs,Sugar,Biscuits,Butter
+2261,Cake,Shampoo,Pasta,Cheese,Bananas
+2262,Bread,Sugar,Ice Cream,Coke,Pizza
+2263,Cake,Cereal,Biscuits,Ice Cream,Chicken
+2264,Burger,Milk,Pizza,Bread,
+2265,Tea,Cake,Sugar,,
+2266,Cereal,Soap,Oranges,,
+2267,Biscuits,Apples,Pizza,,
+2268,Eggs,Milk,Coke,,
+2269,Cheese,Oranges,,,
+2270,Eggs,Butter,Chicken,Oranges,Sugar
+2271,Burger,Shampoo,,,
+2272,Butter,Coke,Rice,Coffee,
+2273,Cereal,Water Bottle,Coke,Bananas,Donut
+2274,Water Bottle,Coffee,,,
+2275,Toothpaste,Cheese,,,
+2276,Juice,Bread,Salt,Milk,
+2277,Soap,Cheese,,,
+2278,Cake,Ice Cream,Cereal,Juice,Rice
+2279,Pasta,Pepsi,,,
+2280,Milk,Eggs,,,
+2281,Chicken,Sugar,Ice Cream,Salt,Cereal
+2282,Biscuits,Chips,Oranges,Rice,
+2283,Cereal,Shampoo,Donut,Coffee,
+2284,Apples,Ice Cream,,,
+2285,Water Bottle,Oranges,Chicken,Soap,
+2286,Juice,Ice Cream,Oranges,Coffee,Cereal
+2287,Chips,Sugar,Pizza,Eggs,
+2288,Cereal,Coke,Oranges,Tea,Shampoo
+2289,Pizza,Chicken,Apples,Milk,Eggs
+2290,Coke,Bread,,,
+2291,Cake,Chips,,,
+2292,Tea,Cake,Cheese,Apples,
+2293,Pizza,Tea,Butter,,
+2294,Bananas,Coke,,,
+2295,Cake,Cereal,Pepsi,Apples,
+2296,Apples,Milk,Cheese,Bananas,
+2297,Milk,Cheese,Soap,Coffee,Eggs
+2298,Cereal,Pizza,Ice Cream,Donut,Bread
+2299,Toothpaste,Butter,,,
+2300,Water Bottle,Butter,Sugar,,
+2301,Sugar,Coffee,Oranges,Bread,Juice
+2302,Chicken,Shampoo,Eggs,,
+2303,Sugar,Cheese,,,
+2304,Rice,Soap,,,
+2305,Bananas,Tea,Burger,Salt,Apples
+2306,Coffee,Tea,Apples,Donut,
+2307,Biscuits,Eggs,Coffee,Chicken,
+2308,Biscuits,Milk,Pasta,,
+2309,Oranges,Toothpaste,Pizza,Donut,
+2310,Coke,Burger,Rice,Sugar,
+2311,Butter,Eggs,Oranges,Chicken,Pasta
+2312,Oranges,Eggs,Burger,,
+2313,Chips,Eggs,,,
+2314,Biscuits,Rice,,,
+2315,Pepsi,Sugar,Tea,Milk,Rice
+2316,Bananas,Chips,,,
+2317,Milk,Toothpaste,Coke,,
+2318,Soap,Coffee,Chicken,Chips,Sugar
+2319,Sugar,Pasta,,,
+2320,Shampoo,Cake,,,
+2321,Burger,Chicken,Salt,Juice,
+2322,Bread,Toothpaste,Soap,Shampoo,
+2323,Tea,Sugar,Bread,Eggs,Cake
+2324,Rice,Sugar,Bread,,
+2325,Pepsi,Bread,,,
+2326,Cereal,Juice,Salt,Coke,Milk
+2327,Bread,Oranges,Sugar,Pepsi,
+2328,Bread,Biscuits,Cereal,,
+2329,Butter,Apples,Cake,Burger,
+2330,Milk,Eggs,Bananas,,
+2331,Oranges,Pizza,Rice,Cereal,Butter
+2332,Water Bottle,Butter,Chicken,,
+2333,Bananas,Eggs,Coffee,,
+2334,Coffee,Chips,Rice,,
+2335,Soap,Tea,Milk,,
+2336,Butter,Shampoo,Bananas,Donut,Cake
+2337,Shampoo,Cheese,Pasta,,
+2338,Chips,Eggs,Cheese,Pepsi,
+2339,Butter,Cake,,,
+2340,Chicken,Cheese,Juice,,
+2341,Bread,Burger,Oranges,Apples,
+2342,Coke,Bread,,,
+2343,Pepsi,Biscuits,Cereal,Chicken,
+2344,Chips,Pizza,Ice Cream,Donut,Coffee
+2345,Toothpaste,Pizza,Cake,,
+2346,Juice,Cheese,Ice Cream,Oranges,Sugar
+2347,Milk,Cereal,Pepsi,Pasta,Salt
+2348,Rice,Shampoo,Butter,Milk,Cake
+2349,Oranges,Juice,Sugar,Pizza,
+2350,Biscuits,Rice,Milk,Coke,Oranges
+2351,Bread,Donut,Pepsi,Apples,Oranges
+2352,Burger,Pepsi,Biscuits,,
+2353,Chicken,Shampoo,Milk,,
+2354,Coke,Pizza,,,
+2355,Coffee,Milk,,,
+2356,Chicken,Eggs,Shampoo,Ice Cream,
+2357,Pepsi,Pasta,Ice Cream,Rice,
+2358,Ice Cream,Bananas,Apples,Shampoo,
+2359,Shampoo,Apples,Eggs,Donut,
+2360,Oranges,Ice Cream,Tea,,
+2361,Water Bottle,Pasta,Pepsi,Donut,
+2362,Salt,Water Bottle,Shampoo,Cereal,Toothpaste
+2363,Tea,Toothpaste,Sugar,,
+2364,Sugar,Burger,Cake,Cereal,
+2365,Water Bottle,Chips,,,
+2366,Chicken,Cake,,,
+2367,Juice,Bread,Salt,Cereal,
+2368,Soap,Coffee,Biscuits,Chips,Cereal
+2369,Tea,Rice,Milk,,
+2370,Pasta,Milk,,,
+2371,Cereal,Pasta,Juice,,
+2372,Juice,Pasta,Rice,Donut,
+2373,Ice Cream,Oranges,Chicken,Eggs,Cereal
+2374,Chips,Cheese,Tea,Cake,
+2375,Milk,Cake,Donut,Water Bottle,Shampoo
+2376,Tea,Butter,Pizza,Chips,Water Bottle
+2377,Rice,Biscuits,Butter,Eggs,
+2378,Burger,Chips,,,
+2379,Bread,Chicken,Rice,Burger,
+2380,Toothpaste,Rice,Chicken,Pizza,Pepsi
+2381,Biscuits,Juice,Chicken,Butter,
+2382,Cheese,Biscuits,Toothpaste,,
+2383,Coke,Salt,Milk,,
+2384,Toothpaste,Bananas,Milk,Rice,
+2385,Biscuits,Oranges,,,
+2386,Biscuits,Toothpaste,Butter,Eggs,Milk
+2387,Butter,Chips,Pizza,Water Bottle,
+2388,Chips,Sugar,,,
+2389,Butter,Donut,Chips,Toothpaste,Eggs
+2390,Cheese,Chips,Eggs,Pizza,Sugar
+2391,Water Bottle,Donut,Sugar,Milk,Shampoo
+2392,Burger,Salt,Chips,Apples,Toothpaste
+2393,Donut,Butter,Coke,Sugar,
+2394,Eggs,Coffee,,,
+2395,Coffee,Juice,Tea,,
+2396,Pasta,Sugar,,,
+2397,Oranges,Shampoo,,,
+2398,Rice,Burger,Sugar,Coffee,Chicken
+2399,Ice Cream,Soap,,,
+2400,Rice,Coffee,Oranges,Toothpaste,Salt
+2401,Cheese,Ice Cream,Burger,Biscuits,
+2402,Juice,Chicken,,,
+2403,Juice,Chicken,Pepsi,Tea,
+2404,Shampoo,Salt,,,
+2405,Soap,Toothpaste,Coke,,
+2406,Rice,Oranges,Ice Cream,,
+2407,Ice Cream,Donut,Tea,Sugar,Chips
+2408,Ice Cream,Sugar,,,
+2409,Coffee,Salt,Milk,Ice Cream,Pizza
+2410,Donut,Shampoo,Burger,Soap,Tea
+2411,Pasta,Chips,Apples,Sugar,Milk
+2412,Ice Cream,Soap,Milk,Biscuits,
+2413,Soap,Bananas,,,
+2414,Cake,Biscuits,Juice,Coffee,
+2415,Biscuits,Water Bottle,,,
+2416,Oranges,Cheese,Chicken,Pizza,Rice
+2417,Water Bottle,Pasta,,,
+2418,Burger,Apples,,,
+2419,Rice,Tea,Toothpaste,Salt,Water Bottle
+2420,Water Bottle,Cake,,,
+2421,Eggs,Soap,Tea,,
+2422,Burger,Chips,Rice,Toothpaste,Pasta
+2423,Bread,Chicken,Butter,Burger,
+2424,Bread,Apples,Donut,,
+2425,Apples,Cereal,Shampoo,Oranges,Juice
+2426,Shampoo,Pizza,Pepsi,,
+2427,Burger,Chicken,Juice,Shampoo,Toothpaste
+2428,Burger,Chips,,,
+2429,Pepsi,Sugar,Coke,,
+2430,Soap,Milk,Chicken,,
+2431,Chips,Apples,Pepsi,Water Bottle,Tea
+2432,Biscuits,Milk,Pizza,Tea,
+2433,Burger,Bread,Pasta,Chicken,
+2434,Oranges,Pepsi,Bread,,
+2435,Cereal,Sugar,Shampoo,Pizza,Juice
+2436,Donut,Tea,Bread,Pepsi,Shampoo
+2437,Eggs,Donut,Shampoo,Pasta,Bread
+2438,Water Bottle,Shampoo,,,
+2439,Juice,Bread,Sugar,Pasta,Butter
+2440,Eggs,Bread,Rice,Chicken,Oranges
+2441,Rice,Cheese,,,
+2442,Cake,Burger,Coffee,Biscuits,Donut
+2443,Toothpaste,Sugar,,,
+2444,Bread,Chicken,,,
+2445,Soap,Ice Cream,Cereal,Tea,Eggs
+2446,Shampoo,Toothpaste,Cheese,Soap,Eggs
+2447,Ice Cream,Water Bottle,Milk,,
+2448,Tea,Butter,Chicken,,
+2449,Burger,Milk,Bananas,Water Bottle,
+2450,Cheese,Oranges,,,
+2451,Shampoo,Pepsi,Bread,Tea,
+2452,Milk,Pepsi,Pizza,Tea,Rice
+2453,Bread,Coffee,,,
+2454,Cake,Salt,Sugar,Toothpaste,Butter
+2455,Eggs,Toothpaste,Burger,Oranges,
+2456,Ice Cream,Eggs,Pepsi,Pasta,
+2457,Biscuits,Cake,Cheese,,
+2458,Salt,Cheese,Biscuits,Eggs,Milk
+2459,Burger,Eggs,,,
+2460,Rice,Pizza,Ice Cream,Apples,
+2461,Ice Cream,Oranges,Juice,Pepsi,
+2462,Donut,Toothpaste,Sugar,,
+2463,Juice,Tea,Cake,Coke,Soap
+2464,Juice,Oranges,Water Bottle,Rice,Coke
+2465,Sugar,Butter,,,
+2466,Tea,Cheese,Cake,,
+2467,Chips,Biscuits,Donut,,
+2468,Cereal,Salt,,,
+2469,Bananas,Sugar,Ice Cream,Chips,
+2470,Pizza,Rice,Burger,Eggs,Biscuits
+2471,Rice,Juice,Cheese,Burger,Oranges
+2472,Juice,Coffee,Eggs,Cake,Water Bottle
+2473,Donut,Water Bottle,,,
+2474,Eggs,Toothpaste,Cereal,Pasta,
+2475,Chips,Biscuits,,,
+2476,Butter,Juice,Cheese,Chicken,
+2477,Shampoo,Rice,Apples,,
+2478,Apples,Burger,,,
+2479,Donut,Chips,Pasta,,
+2480,Bread,Rice,Milk,Burger,Ice Cream
+2481,Pasta,Bananas,Pepsi,Apples,
+2482,Butter,Cheese,Biscuits,,
+2483,Coke,Donut,Water Bottle,Oranges,
+2484,Chicken,Sugar,,,
+2485,Water Bottle,Salt,Shampoo,Tea,
+2486,Cereal,Water Bottle,,,
+2487,Toothpaste,Butter,Juice,Bread,
+2488,Cake,Milk,Butter,,
+2489,Juice,Pizza,,,
+2490,Juice,Bread,,,
+2491,Milk,Coke,,,
+2492,Donut,Chicken,Salt,Butter,
+2493,Donut,Juice,Rice,Bananas,
+2494,Apples,Ice Cream,Bananas,Eggs,
+2495,Tea,Salt,Pasta,,
+2496,Tea,Biscuits,Milk,Pepsi,
+2497,Burger,Pizza,Water Bottle,,
+2498,Soap,Cereal,Pepsi,Shampoo,
+2499,Biscuits,Donut,Butter,Cereal,Coke
+2500,Shampoo,Apples,Sugar,Pizza,Toothpaste
